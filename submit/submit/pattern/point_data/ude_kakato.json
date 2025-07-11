@@ -1,0 +1,7142 @@
+[
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_001.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6121,
+        "y": 0.3233,
+        "z": -0.2796,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5335,
+        "y": 0.3783,
+        "z": 0.081,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5442,
+        "y": 0.3962,
+        "z": -0.5633,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6534,
+        "y": 0.31,
+        "z": 0.2812,
+        "visibility": 0.359
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6779,
+        "y": 0.3265,
+        "z": -0.7349,
+        "visibility": 0.991
+      },
+      "LEFT_WRIST": {
+        "x": 0.7311,
+        "y": 0.2233,
+        "z": 0.2102,
+        "visibility": 0.621
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7673,
+        "y": 0.2241,
+        "z": -0.7385,
+        "visibility": 0.985
+      },
+      "LEFT_INDEX": {
+        "x": 0.7384,
+        "y": 0.1967,
+        "z": 0.147,
+        "visibility": 0.657
+      },
+      "RIGHT_INDEX": {
+        "x": 0.773,
+        "y": 0.1911,
+        "z": -0.8045,
+        "visibility": 0.972
+      },
+      "LEFT_HIP": {
+        "x": 0.4832,
+        "y": 0.6318,
+        "z": 0.2108,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5202,
+        "y": 0.6468,
+        "z": -0.2118,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3516,
+        "y": 0.74,
+        "z": 0.4006,
+        "visibility": 0.99
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6878,
+        "y": 0.7113,
+        "z": 0.1212,
+        "visibility": 0.996
+      },
+      "LEFT_ANKLE": {
+        "x": 0.1894,
+        "y": 0.8538,
+        "z": 0.6052,
+        "visibility": 0.99
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6735,
+        "y": 0.8723,
+        "z": 0.4732,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.1596,
+        "y": 0.8765,
+        "z": 0.6286,
+        "visibility": 0.992
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6455,
+        "y": 0.9074,
+        "z": 0.5095,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.242,
+        "y": 0.8783,
+        "z": 0.6013,
+        "visibility": 0.974
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7566,
+        "y": 0.8914,
+        "z": 0.4782,
+        "visibility": 0.987
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_002.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6176,
+        "y": 0.3294,
+        "z": -0.0579,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.517,
+        "y": 0.3824,
+        "z": 0.239,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5676,
+        "y": 0.3897,
+        "z": -0.3002,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5915,
+        "y": 0.2861,
+        "z": 0.407,
+        "visibility": 0.437
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6683,
+        "y": 0.2711,
+        "z": -0.408,
+        "visibility": 0.986
+      },
+      "LEFT_WRIST": {
+        "x": 0.5659,
+        "y": 0.1973,
+        "z": 0.4058,
+        "visibility": 0.494
+      },
+      "RIGHT_WRIST": {
+        "x": 0.5947,
+        "y": 0.1782,
+        "z": -0.2522,
+        "visibility": 0.971
+      },
+      "LEFT_INDEX": {
+        "x": 0.5268,
+        "y": 0.1727,
+        "z": 0.3998,
+        "visibility": 0.465
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5473,
+        "y": 0.1591,
+        "z": -0.2823,
+        "visibility": 0.953
+      },
+      "LEFT_HIP": {
+        "x": 0.4823,
+        "y": 0.6287,
+        "z": 0.1998,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5598,
+        "y": 0.6366,
+        "z": -0.2004,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.369,
+        "y": 0.735,
+        "z": 0.2717,
+        "visibility": 0.976
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7073,
+        "y": 0.7068,
+        "z": -0.1237,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2059,
+        "y": 0.8578,
+        "z": 0.375,
+        "visibility": 0.957
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6914,
+        "y": 0.8714,
+        "z": -0.032,
+        "visibility": 0.994
+      },
+      "LEFT_HEEL": {
+        "x": 0.1679,
+        "y": 0.8846,
+        "z": 0.3865,
+        "visibility": 0.952
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6574,
+        "y": 0.9077,
+        "z": -0.025,
+        "visibility": 0.988
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.268,
+        "y": 0.8747,
+        "z": 0.3671,
+        "visibility": 0.92
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7845,
+        "y": 0.893,
+        "z": -0.0865,
+        "visibility": 0.983
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_003.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6371,
+        "y": 0.3186,
+        "z": -0.1391,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5588,
+        "y": 0.3706,
+        "z": 0.1723,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5837,
+        "y": 0.3729,
+        "z": -0.3229,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.626,
+        "y": 0.2681,
+        "z": 0.3064,
+        "visibility": 0.498
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6739,
+        "y": 0.2602,
+        "z": -0.4287,
+        "visibility": 0.989
+      },
+      "LEFT_WRIST": {
+        "x": 0.5732,
+        "y": 0.1836,
+        "z": 0.2726,
+        "visibility": 0.509
+      },
+      "RIGHT_WRIST": {
+        "x": 0.5795,
+        "y": 0.1759,
+        "z": -0.2609,
+        "visibility": 0.96
+      },
+      "LEFT_INDEX": {
+        "x": 0.5311,
+        "y": 0.164,
+        "z": 0.2624,
+        "visibility": 0.474
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5364,
+        "y": 0.1601,
+        "z": -0.2891,
+        "visibility": 0.937
+      },
+      "LEFT_HIP": {
+        "x": 0.5182,
+        "y": 0.6147,
+        "z": 0.1923,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5828,
+        "y": 0.6209,
+        "z": -0.1929,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3897,
+        "y": 0.7254,
+        "z": 0.2229,
+        "visibility": 0.987
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7347,
+        "y": 0.699,
+        "z": -0.0766,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2296,
+        "y": 0.837,
+        "z": 0.2782,
+        "visibility": 0.978
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7034,
+        "y": 0.8605,
+        "z": 0.0193,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.1929,
+        "y": 0.8621,
+        "z": 0.2854,
+        "visibility": 0.974
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6721,
+        "y": 0.8927,
+        "z": 0.0273,
+        "visibility": 0.991
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2817,
+        "y": 0.865,
+        "z": 0.258,
+        "visibility": 0.961
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8017,
+        "y": 0.883,
+        "z": -0.0232,
+        "visibility": 0.989
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_004.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.63,
+        "y": 0.3189,
+        "z": -0.0822,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5333,
+        "y": 0.3809,
+        "z": 0.2156,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5795,
+        "y": 0.3857,
+        "z": -0.3515,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6122,
+        "y": 0.2729,
+        "z": 0.3655,
+        "visibility": 0.391
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6628,
+        "y": 0.2599,
+        "z": -0.4785,
+        "visibility": 0.986
+      },
+      "LEFT_WRIST": {
+        "x": 0.5863,
+        "y": 0.1811,
+        "z": 0.292,
+        "visibility": 0.486
+      },
+      "RIGHT_WRIST": {
+        "x": 0.5992,
+        "y": 0.1646,
+        "z": -0.3546,
+        "visibility": 0.971
+      },
+      "LEFT_INDEX": {
+        "x": 0.5562,
+        "y": 0.1591,
+        "z": 0.2712,
+        "visibility": 0.478
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5671,
+        "y": 0.1403,
+        "z": -0.3891,
+        "visibility": 0.957
+      },
+      "LEFT_HIP": {
+        "x": 0.5039,
+        "y": 0.6248,
+        "z": 0.1936,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5769,
+        "y": 0.6309,
+        "z": -0.1943,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3738,
+        "y": 0.7352,
+        "z": 0.2354,
+        "visibility": 0.991
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7216,
+        "y": 0.7028,
+        "z": -0.0096,
+        "visibility": 0.996
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2107,
+        "y": 0.8535,
+        "z": 0.3069,
+        "visibility": 0.978
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6958,
+        "y": 0.8601,
+        "z": 0.1945,
+        "visibility": 0.991
+      },
+      "LEFT_HEEL": {
+        "x": 0.1769,
+        "y": 0.8826,
+        "z": 0.3165,
+        "visibility": 0.979
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6618,
+        "y": 0.8948,
+        "z": 0.2145,
+        "visibility": 0.988
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2384,
+        "y": 0.8682,
+        "z": 0.2846,
+        "visibility": 0.942
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7836,
+        "y": 0.8778,
+        "z": 0.1716,
+        "visibility": 0.975
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_005.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6436,
+        "y": 0.3276,
+        "z": -0.1518,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5504,
+        "y": 0.3766,
+        "z": 0.1807,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5787,
+        "y": 0.3903,
+        "z": -0.4998,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6703,
+        "y": 0.3007,
+        "z": 0.3416,
+        "visibility": 0.318
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.714,
+        "y": 0.3136,
+        "z": -0.6921,
+        "visibility": 0.994
+      },
+      "LEFT_WRIST": {
+        "x": 0.768,
+        "y": 0.2192,
+        "z": 0.2104,
+        "visibility": 0.633
+      },
+      "RIGHT_WRIST": {
+        "x": 0.811,
+        "y": 0.2201,
+        "z": -0.7041,
+        "visibility": 0.989
+      },
+      "LEFT_INDEX": {
+        "x": 0.7824,
+        "y": 0.1985,
+        "z": 0.1376,
+        "visibility": 0.681
+      },
+      "RIGHT_INDEX": {
+        "x": 0.821,
+        "y": 0.1936,
+        "z": -0.759,
+        "visibility": 0.98
+      },
+      "LEFT_HIP": {
+        "x": 0.5055,
+        "y": 0.6276,
+        "z": 0.2111,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.548,
+        "y": 0.6379,
+        "z": -0.2118,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3706,
+        "y": 0.7414,
+        "z": 0.3193,
+        "visibility": 0.992
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6805,
+        "y": 0.724,
+        "z": 0.039,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2092,
+        "y": 0.8548,
+        "z": 0.464,
+        "visibility": 0.99
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6868,
+        "y": 0.8696,
+        "z": 0.3354,
+        "visibility": 0.997
+      },
+      "LEFT_HEEL": {
+        "x": 0.1752,
+        "y": 0.8807,
+        "z": 0.4801,
+        "visibility": 0.992
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6525,
+        "y": 0.904,
+        "z": 0.3639,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2461,
+        "y": 0.8717,
+        "z": 0.4391,
+        "visibility": 0.977
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7668,
+        "y": 0.8898,
+        "z": 0.3267,
+        "visibility": 0.99
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_006.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5947,
+        "y": 0.3194,
+        "z": -0.1647,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5124,
+        "y": 0.3776,
+        "z": 0.1443,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5351,
+        "y": 0.3872,
+        "z": -0.4626,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6249,
+        "y": 0.2949,
+        "z": 0.2922,
+        "visibility": 0.366
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6575,
+        "y": 0.2932,
+        "z": -0.6453,
+        "visibility": 0.988
+      },
+      "LEFT_WRIST": {
+        "x": 0.6917,
+        "y": 0.2023,
+        "z": 0.1886,
+        "visibility": 0.569
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7175,
+        "y": 0.1853,
+        "z": -0.6553,
+        "visibility": 0.983
+      },
+      "LEFT_INDEX": {
+        "x": 0.6925,
+        "y": 0.174,
+        "z": 0.1279,
+        "visibility": 0.586
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7163,
+        "y": 0.1537,
+        "z": -0.7063,
+        "visibility": 0.971
+      },
+      "LEFT_HIP": {
+        "x": 0.4985,
+        "y": 0.6289,
+        "z": 0.1923,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5666,
+        "y": 0.6339,
+        "z": -0.1932,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3833,
+        "y": 0.7386,
+        "z": 0.3553,
+        "visibility": 0.984
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7216,
+        "y": 0.7075,
+        "z": -0.0498,
+        "visibility": 0.995
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2199,
+        "y": 0.8488,
+        "z": 0.5453,
+        "visibility": 0.973
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6963,
+        "y": 0.8598,
+        "z": 0.1905,
+        "visibility": 0.993
+      },
+      "LEFT_HEEL": {
+        "x": 0.1865,
+        "y": 0.8721,
+        "z": 0.5668,
+        "visibility": 0.976
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6633,
+        "y": 0.8962,
+        "z": 0.2153,
+        "visibility": 0.989
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2523,
+        "y": 0.8747,
+        "z": 0.563,
+        "visibility": 0.932
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7806,
+        "y": 0.8854,
+        "z": 0.1903,
+        "visibility": 0.977
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_007.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5919,
+        "y": 0.31,
+        "z": -0.2112,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5236,
+        "y": 0.364,
+        "z": 0.1142,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5177,
+        "y": 0.3764,
+        "z": -0.4752,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6059,
+        "y": 0.2795,
+        "z": 0.2699,
+        "visibility": 0.401
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.632,
+        "y": 0.2798,
+        "z": -0.6696,
+        "visibility": 0.986
+      },
+      "LEFT_WRIST": {
+        "x": 0.6119,
+        "y": 0.1755,
+        "z": 0.1746,
+        "visibility": 0.558
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6323,
+        "y": 0.1482,
+        "z": -0.6754,
+        "visibility": 0.982
+      },
+      "LEFT_INDEX": {
+        "x": 0.5942,
+        "y": 0.1479,
+        "z": 0.1326,
+        "visibility": 0.546
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6128,
+        "y": 0.1196,
+        "z": -0.7355,
+        "visibility": 0.969
+      },
+      "LEFT_HIP": {
+        "x": 0.5172,
+        "y": 0.6097,
+        "z": 0.1999,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5342,
+        "y": 0.6172,
+        "z": -0.2005,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3977,
+        "y": 0.7204,
+        "z": 0.4377,
+        "visibility": 0.951
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6919,
+        "y": 0.701,
+        "z": -0.1829,
+        "visibility": 0.996
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2338,
+        "y": 0.8257,
+        "z": 0.6746,
+        "visibility": 0.968
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.711,
+        "y": 0.8605,
+        "z": -0.0479,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.1951,
+        "y": 0.8468,
+        "z": 0.6976,
+        "visibility": 0.963
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6782,
+        "y": 0.8957,
+        "z": -0.038,
+        "visibility": 0.991
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3018,
+        "y": 0.8666,
+        "z": 0.6712,
+        "visibility": 0.953
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.796,
+        "y": 0.8854,
+        "z": -0.1323,
+        "visibility": 0.989
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_008.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5983,
+        "y": 0.2973,
+        "z": -0.0648,
+        "visibility": 0.999
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5122,
+        "y": 0.3721,
+        "z": 0.2014,
+        "visibility": 0.994
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5515,
+        "y": 0.3642,
+        "z": -0.3488,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5434,
+        "y": 0.2737,
+        "z": 0.3525,
+        "visibility": 0.273
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6241,
+        "y": 0.2493,
+        "z": -0.5638,
+        "visibility": 0.979
+      },
+      "LEFT_WRIST": {
+        "x": 0.544,
+        "y": 0.1704,
+        "z": 0.2463,
+        "visibility": 0.493
+      },
+      "RIGHT_WRIST": {
+        "x": 0.5699,
+        "y": 0.1392,
+        "z": -0.6148,
+        "visibility": 0.974
+      },
+      "LEFT_INDEX": {
+        "x": 0.5164,
+        "y": 0.1441,
+        "z": 0.1933,
+        "visibility": 0.509
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5409,
+        "y": 0.1163,
+        "z": -0.6678,
+        "visibility": 0.958
+      },
+      "LEFT_HIP": {
+        "x": 0.5199,
+        "y": 0.6117,
+        "z": 0.1846,
+        "visibility": 0.998
+      },
+      "RIGHT_HIP": {
+        "x": 0.5646,
+        "y": 0.6143,
+        "z": -0.185,
+        "visibility": 0.999
+      },
+      "LEFT_KNEE": {
+        "x": 0.4089,
+        "y": 0.723,
+        "z": 0.3193,
+        "visibility": 0.895
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7288,
+        "y": 0.7065,
+        "z": -0.1478,
+        "visibility": 0.991
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2476,
+        "y": 0.823,
+        "z": 0.5108,
+        "visibility": 0.897
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7276,
+        "y": 0.8684,
+        "z": -0.0176,
+        "visibility": 0.985
+      },
+      "LEFT_HEEL": {
+        "x": 0.2105,
+        "y": 0.8352,
+        "z": 0.5292,
+        "visibility": 0.905
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6974,
+        "y": 0.8962,
+        "z": -0.0077,
+        "visibility": 0.981
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2945,
+        "y": 0.8622,
+        "z": 0.5005,
+        "visibility": 0.872
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8209,
+        "y": 0.8932,
+        "z": -0.1044,
+        "visibility": 0.969
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_009.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6305,
+        "y": 0.3014,
+        "z": -0.1035,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5526,
+        "y": 0.3601,
+        "z": 0.2018,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5651,
+        "y": 0.3621,
+        "z": -0.3347,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6128,
+        "y": 0.2594,
+        "z": 0.2702,
+        "visibility": 0.447
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.646,
+        "y": 0.2445,
+        "z": -0.4368,
+        "visibility": 0.983
+      },
+      "LEFT_WRIST": {
+        "x": 0.5712,
+        "y": 0.1713,
+        "z": 0.1324,
+        "visibility": 0.493
+      },
+      "RIGHT_WRIST": {
+        "x": 0.5749,
+        "y": 0.1453,
+        "z": -0.2592,
+        "visibility": 0.956
+      },
+      "LEFT_INDEX": {
+        "x": 0.5358,
+        "y": 0.1419,
+        "z": 0.1133,
+        "visibility": 0.462
+      },
+      "RIGHT_INDEX": {
+        "x": 0.541,
+        "y": 0.1268,
+        "z": -0.2961,
+        "visibility": 0.939
+      },
+      "LEFT_HIP": {
+        "x": 0.5498,
+        "y": 0.6095,
+        "z": 0.1989,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5703,
+        "y": 0.6138,
+        "z": -0.1993,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.422,
+        "y": 0.7173,
+        "z": 0.4521,
+        "visibility": 0.926
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7356,
+        "y": 0.7007,
+        "z": -0.1797,
+        "visibility": 0.996
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2625,
+        "y": 0.8141,
+        "z": 0.6717,
+        "visibility": 0.952
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7372,
+        "y": 0.8613,
+        "z": -0.0784,
+        "visibility": 0.995
+      },
+      "LEFT_HEEL": {
+        "x": 0.2181,
+        "y": 0.8289,
+        "z": 0.6933,
+        "visibility": 0.931
+      },
+      "RIGHT_HEEL": {
+        "x": 0.7082,
+        "y": 0.8895,
+        "z": -0.0728,
+        "visibility": 0.988
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.322,
+        "y": 0.8529,
+        "z": 0.678,
+        "visibility": 0.954
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8321,
+        "y": 0.8857,
+        "z": -0.1675,
+        "visibility": 0.991
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_010.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6584,
+        "y": 0.2927,
+        "z": -0.2742,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5821,
+        "y": 0.3477,
+        "z": 0.0998,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5771,
+        "y": 0.3665,
+        "z": -0.5685,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.698,
+        "y": 0.2773,
+        "z": 0.2384,
+        "visibility": 0.475
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.7248,
+        "y": 0.3093,
+        "z": -0.773,
+        "visibility": 0.993
+      },
+      "LEFT_WRIST": {
+        "x": 0.808,
+        "y": 0.2059,
+        "z": 0.1057,
+        "visibility": 0.711
+      },
+      "RIGHT_WRIST": {
+        "x": 0.8523,
+        "y": 0.2149,
+        "z": -0.7996,
+        "visibility": 0.977
+      },
+      "LEFT_INDEX": {
+        "x": 0.8327,
+        "y": 0.1815,
+        "z": 0.0211,
+        "visibility": 0.715
+      },
+      "RIGHT_INDEX": {
+        "x": 0.879,
+        "y": 0.1812,
+        "z": -0.8656,
+        "visibility": 0.954
+      },
+      "LEFT_HIP": {
+        "x": 0.5442,
+        "y": 0.6025,
+        "z": 0.2097,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5669,
+        "y": 0.6109,
+        "z": -0.2105,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4213,
+        "y": 0.7047,
+        "z": 0.4788,
+        "visibility": 0.964
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7283,
+        "y": 0.6827,
+        "z": 0.0525,
+        "visibility": 0.994
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2698,
+        "y": 0.8073,
+        "z": 0.7941,
+        "visibility": 0.974
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7283,
+        "y": 0.8375,
+        "z": 0.3923,
+        "visibility": 0.995
+      },
+      "LEFT_HEEL": {
+        "x": 0.2379,
+        "y": 0.8217,
+        "z": 0.8268,
+        "visibility": 0.976
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6978,
+        "y": 0.8715,
+        "z": 0.4244,
+        "visibility": 0.991
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3133,
+        "y": 0.8398,
+        "z": 0.8003,
+        "visibility": 0.968
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8061,
+        "y": 0.8598,
+        "z": 0.3718,
+        "visibility": 0.99
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_011.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6582,
+        "y": 0.2986,
+        "z": -0.2292,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5776,
+        "y": 0.3367,
+        "z": 0.0959,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5846,
+        "y": 0.3572,
+        "z": -0.5321,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6846,
+        "y": 0.2559,
+        "z": 0.2507,
+        "visibility": 0.395
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.7109,
+        "y": 0.2728,
+        "z": -0.7414,
+        "visibility": 0.989
+      },
+      "LEFT_WRIST": {
+        "x": 0.7645,
+        "y": 0.1608,
+        "z": 0.1296,
+        "visibility": 0.61
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7915,
+        "y": 0.1601,
+        "z": -0.7513,
+        "visibility": 0.979
+      },
+      "LEFT_INDEX": {
+        "x": 0.7729,
+        "y": 0.1341,
+        "z": 0.0594,
+        "visibility": 0.627
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7984,
+        "y": 0.1283,
+        "z": -0.8081,
+        "visibility": 0.961
+      },
+      "LEFT_HIP": {
+        "x": 0.5445,
+        "y": 0.587,
+        "z": 0.2065,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5736,
+        "y": 0.5976,
+        "z": -0.2073,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4211,
+        "y": 0.6984,
+        "z": 0.4191,
+        "visibility": 0.973
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7316,
+        "y": 0.677,
+        "z": -0.0082,
+        "visibility": 0.995
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2491,
+        "y": 0.7976,
+        "z": 0.6587,
+        "visibility": 0.978
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7197,
+        "y": 0.8325,
+        "z": 0.279,
+        "visibility": 0.995
+      },
+      "LEFT_HEEL": {
+        "x": 0.2095,
+        "y": 0.8163,
+        "z": 0.6835,
+        "visibility": 0.979
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6876,
+        "y": 0.8669,
+        "z": 0.3065,
+        "visibility": 0.991
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3198,
+        "y": 0.8385,
+        "z": 0.664,
+        "visibility": 0.965
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8032,
+        "y": 0.8517,
+        "z": 0.2664,
+        "visibility": 0.988
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_012.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6356,
+        "y": 0.3008,
+        "z": -0.332,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5529,
+        "y": 0.3391,
+        "z": 0.0395,
+        "visibility": 1.0
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5714,
+        "y": 0.3617,
+        "z": -0.5706,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6731,
+        "y": 0.2553,
+        "z": 0.1956,
+        "visibility": 0.574
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.7057,
+        "y": 0.2809,
+        "z": -0.7516,
+        "visibility": 0.993
+      },
+      "LEFT_WRIST": {
+        "x": 0.7621,
+        "y": 0.166,
+        "z": 0.0885,
+        "visibility": 0.789
+      },
+      "RIGHT_WRIST": {
+        "x": 0.8037,
+        "y": 0.1683,
+        "z": -0.7746,
+        "visibility": 0.985
+      },
+      "LEFT_INDEX": {
+        "x": 0.7772,
+        "y": 0.1415,
+        "z": 0.0126,
+        "visibility": 0.798
+      },
+      "RIGHT_INDEX": {
+        "x": 0.8163,
+        "y": 0.1385,
+        "z": -0.8398,
+        "visibility": 0.972
+      },
+      "LEFT_HIP": {
+        "x": 0.511,
+        "y": 0.594,
+        "z": 0.1998,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5456,
+        "y": 0.6053,
+        "z": -0.2008,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3826,
+        "y": 0.6889,
+        "z": 0.3977,
+        "visibility": 0.994
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7152,
+        "y": 0.6697,
+        "z": 0.1443,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.208,
+        "y": 0.7935,
+        "z": 0.6286,
+        "visibility": 0.991
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.667,
+        "y": 0.8208,
+        "z": 0.5045,
+        "visibility": 0.997
+      },
+      "LEFT_HEEL": {
+        "x": 0.1701,
+        "y": 0.8183,
+        "z": 0.6556,
+        "visibility": 0.992
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6388,
+        "y": 0.849,
+        "z": 0.5419,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2469,
+        "y": 0.8113,
+        "z": 0.6333,
+        "visibility": 0.978
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7467,
+        "y": 0.8377,
+        "z": 0.5283,
+        "visibility": 0.991
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_013.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6682,
+        "y": 0.2976,
+        "z": -0.2676,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5846,
+        "y": 0.3461,
+        "z": 0.0835,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.6061,
+        "y": 0.3573,
+        "z": -0.5366,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.7011,
+        "y": 0.2603,
+        "z": 0.2694,
+        "visibility": 0.532
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.7392,
+        "y": 0.2582,
+        "z": -0.7211,
+        "visibility": 0.991
+      },
+      "LEFT_WRIST": {
+        "x": 0.7442,
+        "y": 0.1595,
+        "z": 0.2003,
+        "visibility": 0.702
+      },
+      "RIGHT_WRIST": {
+        "x": 0.785,
+        "y": 0.1382,
+        "z": -0.7278,
+        "visibility": 0.988
+      },
+      "LEFT_INDEX": {
+        "x": 0.7447,
+        "y": 0.1263,
+        "z": 0.1529,
+        "visibility": 0.69
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7847,
+        "y": 0.1027,
+        "z": -0.7807,
+        "visibility": 0.977
+      },
+      "LEFT_HIP": {
+        "x": 0.5353,
+        "y": 0.5954,
+        "z": 0.2007,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5924,
+        "y": 0.6047,
+        "z": -0.2017,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4192,
+        "y": 0.6906,
+        "z": 0.4154,
+        "visibility": 0.988
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7483,
+        "y": 0.6793,
+        "z": 0.0307,
+        "visibility": 0.996
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2542,
+        "y": 0.7964,
+        "z": 0.646,
+        "visibility": 0.977
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7063,
+        "y": 0.8295,
+        "z": 0.3451,
+        "visibility": 0.994
+      },
+      "LEFT_HEEL": {
+        "x": 0.2206,
+        "y": 0.8201,
+        "z": 0.672,
+        "visibility": 0.978
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6759,
+        "y": 0.8535,
+        "z": 0.3783,
+        "visibility": 0.991
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2981,
+        "y": 0.8186,
+        "z": 0.663,
+        "visibility": 0.941
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7847,
+        "y": 0.8509,
+        "z": 0.3518,
+        "visibility": 0.98
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_014.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.7078,
+        "y": 0.3011,
+        "z": -0.1362,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.6062,
+        "y": 0.3638,
+        "z": 0.1673,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.6606,
+        "y": 0.3712,
+        "z": -0.4527,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.697,
+        "y": 0.2639,
+        "z": 0.347,
+        "visibility": 0.348
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.7702,
+        "y": 0.2587,
+        "z": -0.5986,
+        "visibility": 0.981
+      },
+      "LEFT_WRIST": {
+        "x": 0.6871,
+        "y": 0.1653,
+        "z": 0.2739,
+        "visibility": 0.478
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7113,
+        "y": 0.1553,
+        "z": -0.5224,
+        "visibility": 0.973
+      },
+      "LEFT_INDEX": {
+        "x": 0.6615,
+        "y": 0.14,
+        "z": 0.2405,
+        "visibility": 0.482
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6825,
+        "y": 0.13,
+        "z": -0.5746,
+        "visibility": 0.959
+      },
+      "LEFT_HIP": {
+        "x": 0.5666,
+        "y": 0.6095,
+        "z": 0.1979,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.6394,
+        "y": 0.6192,
+        "z": -0.1986,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4479,
+        "y": 0.7098,
+        "z": 0.3462,
+        "visibility": 0.989
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7916,
+        "y": 0.6936,
+        "z": 0.0448,
+        "visibility": 0.995
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2858,
+        "y": 0.8154,
+        "z": 0.5353,
+        "visibility": 0.974
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7467,
+        "y": 0.8429,
+        "z": 0.3363,
+        "visibility": 0.99
+      },
+      "LEFT_HEEL": {
+        "x": 0.2561,
+        "y": 0.8372,
+        "z": 0.5569,
+        "visibility": 0.975
+      },
+      "RIGHT_HEEL": {
+        "x": 0.7122,
+        "y": 0.8718,
+        "z": 0.3655,
+        "visibility": 0.988
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3105,
+        "y": 0.8347,
+        "z": 0.5259,
+        "visibility": 0.932
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8214,
+        "y": 0.8654,
+        "z": 0.306,
+        "visibility": 0.969
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_015.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6304,
+        "y": 0.2992,
+        "z": -0.0736,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5481,
+        "y": 0.3403,
+        "z": 0.2494,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5439,
+        "y": 0.3507,
+        "z": -0.4094,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6536,
+        "y": 0.264,
+        "z": 0.4138,
+        "visibility": 0.347
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6645,
+        "y": 0.275,
+        "z": -0.6375,
+        "visibility": 0.994
+      },
+      "LEFT_WRIST": {
+        "x": 0.7359,
+        "y": 0.1705,
+        "z": 0.2804,
+        "visibility": 0.57
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7659,
+        "y": 0.164,
+        "z": -0.6483,
+        "visibility": 0.988
+      },
+      "LEFT_INDEX": {
+        "x": 0.7454,
+        "y": 0.1472,
+        "z": 0.2141,
+        "visibility": 0.599
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7777,
+        "y": 0.1355,
+        "z": -0.695,
+        "visibility": 0.976
+      },
+      "LEFT_HIP": {
+        "x": 0.5263,
+        "y": 0.5987,
+        "z": 0.2143,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5521,
+        "y": 0.6021,
+        "z": -0.2149,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.426,
+        "y": 0.7118,
+        "z": 0.3877,
+        "visibility": 0.935
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6866,
+        "y": 0.7056,
+        "z": -0.1934,
+        "visibility": 0.994
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2656,
+        "y": 0.8299,
+        "z": 0.5884,
+        "visibility": 0.943
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.655,
+        "y": 0.8571,
+        "z": -0.0371,
+        "visibility": 0.994
+      },
+      "LEFT_HEEL": {
+        "x": 0.2212,
+        "y": 0.8538,
+        "z": 0.6073,
+        "visibility": 0.95
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6257,
+        "y": 0.8918,
+        "z": -0.0239,
+        "visibility": 0.99
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3357,
+        "y": 0.868,
+        "z": 0.5844,
+        "visibility": 0.923
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7444,
+        "y": 0.8855,
+        "z": -0.0909,
+        "visibility": 0.986
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_016.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5725,
+        "y": 0.2995,
+        "z": -0.222,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4924,
+        "y": 0.3513,
+        "z": 0.193,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5022,
+        "y": 0.3569,
+        "z": -0.3602,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5785,
+        "y": 0.2728,
+        "z": 0.3392,
+        "visibility": 0.428
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6196,
+        "y": 0.2681,
+        "z": -0.479,
+        "visibility": 0.982
+      },
+      "LEFT_WRIST": {
+        "x": 0.5837,
+        "y": 0.1722,
+        "z": 0.2749,
+        "visibility": 0.584
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6019,
+        "y": 0.155,
+        "z": -0.3428,
+        "visibility": 0.97
+      },
+      "LEFT_INDEX": {
+        "x": 0.5556,
+        "y": 0.1461,
+        "z": 0.263,
+        "visibility": 0.541
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5768,
+        "y": 0.1304,
+        "z": -0.3796,
+        "visibility": 0.955
+      },
+      "LEFT_HIP": {
+        "x": 0.4813,
+        "y": 0.5972,
+        "z": 0.1991,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5205,
+        "y": 0.5992,
+        "z": -0.1999,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3935,
+        "y": 0.7163,
+        "z": 0.3406,
+        "visibility": 0.838
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6543,
+        "y": 0.7176,
+        "z": -0.0952,
+        "visibility": 0.98
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2447,
+        "y": 0.8388,
+        "z": 0.4953,
+        "visibility": 0.875
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6289,
+        "y": 0.869,
+        "z": 0.0913,
+        "visibility": 0.973
+      },
+      "LEFT_HEEL": {
+        "x": 0.2048,
+        "y": 0.862,
+        "z": 0.5111,
+        "visibility": 0.874
+      },
+      "RIGHT_HEEL": {
+        "x": 0.5997,
+        "y": 0.8957,
+        "z": 0.1097,
+        "visibility": 0.959
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.314,
+        "y": 0.8698,
+        "z": 0.5031,
+        "visibility": 0.851
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7224,
+        "y": 0.8873,
+        "z": 0.0776,
+        "visibility": 0.952
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_017.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6172,
+        "y": 0.301,
+        "z": -0.0422,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.538,
+        "y": 0.3682,
+        "z": 0.2464,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.529,
+        "y": 0.3688,
+        "z": -0.2679,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5724,
+        "y": 0.2688,
+        "z": 0.2511,
+        "visibility": 0.413
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5799,
+        "y": 0.2532,
+        "z": -0.3038,
+        "visibility": 0.993
+      },
+      "LEFT_WRIST": {
+        "x": 0.4892,
+        "y": 0.198,
+        "z": 0.0958,
+        "visibility": 0.403
+      },
+      "RIGHT_WRIST": {
+        "x": 0.474,
+        "y": 0.1819,
+        "z": 0.0157,
+        "visibility": 0.954
+      },
+      "LEFT_INDEX": {
+        "x": 0.4441,
+        "y": 0.1782,
+        "z": 0.0667,
+        "visibility": 0.381
+      },
+      "RIGHT_INDEX": {
+        "x": 0.4318,
+        "y": 0.1661,
+        "z": -0.0166,
+        "visibility": 0.934
+      },
+      "LEFT_HIP": {
+        "x": 0.5327,
+        "y": 0.6131,
+        "z": 0.2069,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5434,
+        "y": 0.6132,
+        "z": -0.207,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4225,
+        "y": 0.7283,
+        "z": 0.311,
+        "visibility": 0.917
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6902,
+        "y": 0.7133,
+        "z": -0.2132,
+        "visibility": 0.995
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2679,
+        "y": 0.8566,
+        "z": 0.3887,
+        "visibility": 0.928
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6584,
+        "y": 0.8711,
+        "z": -0.1458,
+        "visibility": 0.99
+      },
+      "LEFT_HEEL": {
+        "x": 0.2296,
+        "y": 0.8758,
+        "z": 0.3967,
+        "visibility": 0.912
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6281,
+        "y": 0.9077,
+        "z": -0.1435,
+        "visibility": 0.978
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3433,
+        "y": 0.888,
+        "z": 0.3663,
+        "visibility": 0.945
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7574,
+        "y": 0.9028,
+        "z": -0.2382,
+        "visibility": 0.984
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_018.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6083,
+        "y": 0.3227,
+        "z": -0.0455,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5252,
+        "y": 0.3541,
+        "z": 0.2544,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5284,
+        "y": 0.3655,
+        "z": -0.3589,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6296,
+        "y": 0.29,
+        "z": 0.3733,
+        "visibility": 0.323
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.658,
+        "y": 0.303,
+        "z": -0.5689,
+        "visibility": 0.99
+      },
+      "LEFT_WRIST": {
+        "x": 0.7456,
+        "y": 0.2079,
+        "z": 0.2292,
+        "visibility": 0.579
+      },
+      "RIGHT_WRIST": {
+        "x": 0.78,
+        "y": 0.2073,
+        "z": -0.5727,
+        "visibility": 0.975
+      },
+      "LEFT_INDEX": {
+        "x": 0.7679,
+        "y": 0.1854,
+        "z": 0.16,
+        "visibility": 0.618
+      },
+      "RIGHT_INDEX": {
+        "x": 0.8039,
+        "y": 0.1786,
+        "z": -0.6109,
+        "visibility": 0.957
+      },
+      "LEFT_HIP": {
+        "x": 0.5061,
+        "y": 0.6079,
+        "z": 0.2001,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5438,
+        "y": 0.6144,
+        "z": -0.2009,
+        "visibility": 0.999
+      },
+      "LEFT_KNEE": {
+        "x": 0.3956,
+        "y": 0.7234,
+        "z": 0.3366,
+        "visibility": 0.967
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6794,
+        "y": 0.7119,
+        "z": -0.1157,
+        "visibility": 0.996
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2453,
+        "y": 0.8412,
+        "z": 0.5023,
+        "visibility": 0.952
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6341,
+        "y": 0.8605,
+        "z": 0.0698,
+        "visibility": 0.994
+      },
+      "LEFT_HEEL": {
+        "x": 0.2078,
+        "y": 0.8653,
+        "z": 0.5196,
+        "visibility": 0.964
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6026,
+        "y": 0.8954,
+        "z": 0.088,
+        "visibility": 0.991
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2907,
+        "y": 0.8708,
+        "z": 0.5126,
+        "visibility": 0.918
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7286,
+        "y": 0.8836,
+        "z": 0.0609,
+        "visibility": 0.982
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_019.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6482,
+        "y": 0.3513,
+        "z": -0.3151,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5835,
+        "y": 0.3906,
+        "z": 0.0549,
+        "visibility": 1.0
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5973,
+        "y": 0.4118,
+        "z": -0.5401,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6807,
+        "y": 0.3095,
+        "z": 0.2197,
+        "visibility": 0.6
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.7109,
+        "y": 0.3237,
+        "z": -0.7343,
+        "visibility": 0.996
+      },
+      "LEFT_WRIST": {
+        "x": 0.7524,
+        "y": 0.2173,
+        "z": 0.0957,
+        "visibility": 0.801
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7983,
+        "y": 0.2194,
+        "z": -0.7402,
+        "visibility": 0.99
+      },
+      "LEFT_INDEX": {
+        "x": 0.7566,
+        "y": 0.1938,
+        "z": 0.0285,
+        "visibility": 0.795
+      },
+      "RIGHT_INDEX": {
+        "x": 0.8033,
+        "y": 0.1926,
+        "z": -0.7953,
+        "visibility": 0.978
+      },
+      "LEFT_HIP": {
+        "x": 0.5495,
+        "y": 0.6334,
+        "z": 0.195,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5533,
+        "y": 0.6445,
+        "z": -0.1958,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4145,
+        "y": 0.7287,
+        "z": 0.3153,
+        "visibility": 0.98
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6066,
+        "y": 0.7201,
+        "z": 0.0038,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.3867,
+        "y": 0.869,
+        "z": 0.4743,
+        "visibility": 0.991
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.5472,
+        "y": 0.8633,
+        "z": 0.2474,
+        "visibility": 0.998
+      },
+      "LEFT_HEEL": {
+        "x": 0.3566,
+        "y": 0.891,
+        "z": 0.4869,
+        "visibility": 0.988
+      },
+      "RIGHT_HEEL": {
+        "x": 0.5209,
+        "y": 0.8914,
+        "z": 0.2676,
+        "visibility": 0.994
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.429,
+        "y": 0.9055,
+        "z": 0.434,
+        "visibility": 0.985
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.5935,
+        "y": 0.8902,
+        "z": 0.2082,
+        "visibility": 0.995
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_020.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6183,
+        "y": 0.3267,
+        "z": -0.1928,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5463,
+        "y": 0.3826,
+        "z": 0.1449,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5354,
+        "y": 0.3968,
+        "z": -0.3992,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6425,
+        "y": 0.2928,
+        "z": 0.2634,
+        "visibility": 0.405
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6496,
+        "y": 0.294,
+        "z": -0.5641,
+        "visibility": 0.989
+      },
+      "LEFT_WRIST": {
+        "x": 0.6442,
+        "y": 0.1983,
+        "z": 0.1176,
+        "visibility": 0.526
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6536,
+        "y": 0.1808,
+        "z": -0.4932,
+        "visibility": 0.977
+      },
+      "LEFT_INDEX": {
+        "x": 0.6245,
+        "y": 0.1698,
+        "z": 0.0847,
+        "visibility": 0.502
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6352,
+        "y": 0.1489,
+        "z": -0.535,
+        "visibility": 0.958
+      },
+      "LEFT_HIP": {
+        "x": 0.5208,
+        "y": 0.6199,
+        "z": 0.1808,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5153,
+        "y": 0.6283,
+        "z": -0.1814,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3968,
+        "y": 0.7127,
+        "z": 0.2266,
+        "visibility": 0.965
+      },
+      "RIGHT_KNEE": {
+        "x": 0.5328,
+        "y": 0.7161,
+        "z": -0.0547,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.4111,
+        "y": 0.8524,
+        "z": 0.3186,
+        "visibility": 0.987
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.4456,
+        "y": 0.861,
+        "z": 0.1039,
+        "visibility": 0.998
+      },
+      "LEFT_HEEL": {
+        "x": 0.3866,
+        "y": 0.8778,
+        "z": 0.3244,
+        "visibility": 0.983
+      },
+      "RIGHT_HEEL": {
+        "x": 0.418,
+        "y": 0.8933,
+        "z": 0.1136,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.4654,
+        "y": 0.8788,
+        "z": 0.2668,
+        "visibility": 0.981
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.4866,
+        "y": 0.8771,
+        "z": 0.0247,
+        "visibility": 0.994
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_021.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.623,
+        "y": 0.3493,
+        "z": -0.1889,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5262,
+        "y": 0.3922,
+        "z": 0.0832,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5657,
+        "y": 0.4109,
+        "z": -0.4834,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5535,
+        "y": 0.2841,
+        "z": 0.2437,
+        "visibility": 0.597
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6654,
+        "y": 0.3048,
+        "z": -0.6858,
+        "visibility": 0.993
+      },
+      "LEFT_WRIST": {
+        "x": 0.6025,
+        "y": 0.1767,
+        "z": 0.1538,
+        "visibility": 0.831
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6711,
+        "y": 0.1721,
+        "z": -0.725,
+        "visibility": 0.993
+      },
+      "LEFT_INDEX": {
+        "x": 0.5969,
+        "y": 0.1455,
+        "z": 0.0955,
+        "visibility": 0.824
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6589,
+        "y": 0.1413,
+        "z": -0.7748,
+        "visibility": 0.987
+      },
+      "LEFT_HIP": {
+        "x": 0.5062,
+        "y": 0.6399,
+        "z": 0.2037,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5341,
+        "y": 0.651,
+        "z": -0.2045,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3765,
+        "y": 0.7437,
+        "z": 0.3749,
+        "visibility": 0.989
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7172,
+        "y": 0.7163,
+        "z": -0.1991,
+        "visibility": 0.999
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2047,
+        "y": 0.8498,
+        "z": 0.564,
+        "visibility": 0.986
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6966,
+        "y": 0.8788,
+        "z": -0.046,
+        "visibility": 0.998
+      },
+      "LEFT_HEEL": {
+        "x": 0.1636,
+        "y": 0.8695,
+        "z": 0.5829,
+        "visibility": 0.982
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6602,
+        "y": 0.9079,
+        "z": -0.0317,
+        "visibility": 0.994
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2537,
+        "y": 0.8793,
+        "z": 0.5753,
+        "visibility": 0.977
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7891,
+        "y": 0.909,
+        "z": -0.0878,
+        "visibility": 0.994
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_022.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5237,
+        "y": 0.3391,
+        "z": -0.168,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4455,
+        "y": 0.3933,
+        "z": 0.1545,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4619,
+        "y": 0.3985,
+        "z": -0.4453,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.52,
+        "y": 0.3321,
+        "z": 0.3946,
+        "visibility": 0.222
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.583,
+        "y": 0.3421,
+        "z": -0.5938,
+        "visibility": 0.976
+      },
+      "LEFT_WRIST": {
+        "x": 0.5285,
+        "y": 0.2552,
+        "z": 0.4178,
+        "visibility": 0.461
+      },
+      "RIGHT_WRIST": {
+        "x": 0.5669,
+        "y": 0.228,
+        "z": -0.5563,
+        "visibility": 0.977
+      },
+      "LEFT_INDEX": {
+        "x": 0.5186,
+        "y": 0.2226,
+        "z": 0.4013,
+        "visibility": 0.505
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5439,
+        "y": 0.1986,
+        "z": -0.6093,
+        "visibility": 0.971
+      },
+      "LEFT_HIP": {
+        "x": 0.4784,
+        "y": 0.6257,
+        "z": 0.1916,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5271,
+        "y": 0.6264,
+        "z": -0.1922,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3716,
+        "y": 0.7136,
+        "z": 0.4079,
+        "visibility": 0.992
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7153,
+        "y": 0.6726,
+        "z": 0.0501,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2342,
+        "y": 0.7929,
+        "z": 0.6295,
+        "visibility": 0.981
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7235,
+        "y": 0.8253,
+        "z": 0.3346,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.187,
+        "y": 0.8138,
+        "z": 0.6561,
+        "visibility": 0.983
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6972,
+        "y": 0.8561,
+        "z": 0.3648,
+        "visibility": 0.994
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2845,
+        "y": 0.8253,
+        "z": 0.6505,
+        "visibility": 0.954
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8145,
+        "y": 0.8544,
+        "z": 0.3309,
+        "visibility": 0.985
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_023.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5185,
+        "y": 0.3161,
+        "z": -0.1238,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4597,
+        "y": 0.3615,
+        "z": 0.2369,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.434,
+        "y": 0.3772,
+        "z": -0.4373,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5723,
+        "y": 0.3281,
+        "z": 0.3907,
+        "visibility": 0.336
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.559,
+        "y": 0.3603,
+        "z": -0.6474,
+        "visibility": 0.993
+      },
+      "LEFT_WRIST": {
+        "x": 0.697,
+        "y": 0.2397,
+        "z": 0.2717,
+        "visibility": 0.531
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6992,
+        "y": 0.2592,
+        "z": -0.6641,
+        "visibility": 0.958
+      },
+      "LEFT_INDEX": {
+        "x": 0.7231,
+        "y": 0.2123,
+        "z": 0.2069,
+        "visibility": 0.589
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7267,
+        "y": 0.2255,
+        "z": -0.7099,
+        "visibility": 0.925
+      },
+      "LEFT_HIP": {
+        "x": 0.48,
+        "y": 0.6039,
+        "z": 0.2176,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5202,
+        "y": 0.6061,
+        "z": -0.2182,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3662,
+        "y": 0.6899,
+        "z": 0.4922,
+        "visibility": 0.993
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7127,
+        "y": 0.6412,
+        "z": -0.12,
+        "visibility": 0.999
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2279,
+        "y": 0.7618,
+        "z": 0.764,
+        "visibility": 0.981
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7122,
+        "y": 0.7961,
+        "z": 0.0996,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.1828,
+        "y": 0.7865,
+        "z": 0.7942,
+        "visibility": 0.986
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6906,
+        "y": 0.8278,
+        "z": 0.1225,
+        "visibility": 0.998
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2748,
+        "y": 0.8003,
+        "z": 0.8015,
+        "visibility": 0.948
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8086,
+        "y": 0.8219,
+        "z": 0.0818,
+        "visibility": 0.993
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_024.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.564,
+        "y": 0.3079,
+        "z": -0.0057,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4659,
+        "y": 0.3507,
+        "z": 0.2757,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5061,
+        "y": 0.345,
+        "z": -0.3417,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5385,
+        "y": 0.2783,
+        "z": 0.5741,
+        "visibility": 0.176
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6057,
+        "y": 0.2642,
+        "z": -0.5269,
+        "visibility": 0.985
+      },
+      "LEFT_WRIST": {
+        "x": 0.5783,
+        "y": 0.1963,
+        "z": 0.6363,
+        "visibility": 0.345
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6303,
+        "y": 0.1552,
+        "z": -0.5112,
+        "visibility": 0.988
+      },
+      "LEFT_INDEX": {
+        "x": 0.5802,
+        "y": 0.1698,
+        "z": 0.6262,
+        "visibility": 0.41
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6213,
+        "y": 0.124,
+        "z": -0.5523,
+        "visibility": 0.983
+      },
+      "LEFT_HIP": {
+        "x": 0.4798,
+        "y": 0.5812,
+        "z": 0.2043,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5236,
+        "y": 0.5849,
+        "z": -0.205,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3783,
+        "y": 0.6818,
+        "z": 0.3757,
+        "visibility": 0.993
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7191,
+        "y": 0.6377,
+        "z": -0.0597,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.22,
+        "y": 0.7642,
+        "z": 0.5471,
+        "visibility": 0.981
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7035,
+        "y": 0.7943,
+        "z": 0.158,
+        "visibility": 0.997
+      },
+      "LEFT_HEEL": {
+        "x": 0.1801,
+        "y": 0.7798,
+        "z": 0.5697,
+        "visibility": 0.984
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6826,
+        "y": 0.8234,
+        "z": 0.1831,
+        "visibility": 0.996
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2683,
+        "y": 0.796,
+        "z": 0.582,
+        "visibility": 0.924
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7988,
+        "y": 0.8237,
+        "z": 0.173,
+        "visibility": 0.984
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_025.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5459,
+        "y": 0.2978,
+        "z": -0.0414,
+        "visibility": 0.999
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4618,
+        "y": 0.3487,
+        "z": 0.203,
+        "visibility": 0.993
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4845,
+        "y": 0.3411,
+        "z": -0.3356,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5183,
+        "y": 0.2729,
+        "z": 0.3772,
+        "visibility": 0.162
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.559,
+        "y": 0.2488,
+        "z": -0.5136,
+        "visibility": 0.969
+      },
+      "LEFT_WRIST": {
+        "x": 0.4848,
+        "y": 0.1925,
+        "z": 0.3272,
+        "visibility": 0.199
+      },
+      "RIGHT_WRIST": {
+        "x": 0.4902,
+        "y": 0.1652,
+        "z": -0.4794,
+        "visibility": 0.943
+      },
+      "LEFT_INDEX": {
+        "x": 0.4525,
+        "y": 0.1545,
+        "z": 0.2901,
+        "visibility": 0.223
+      },
+      "RIGHT_INDEX": {
+        "x": 0.45,
+        "y": 0.1435,
+        "z": -0.5227,
+        "visibility": 0.926
+      },
+      "LEFT_HIP": {
+        "x": 0.4713,
+        "y": 0.5849,
+        "z": 0.1902,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5099,
+        "y": 0.5875,
+        "z": -0.1905,
+        "visibility": 0.999
+      },
+      "LEFT_KNEE": {
+        "x": 0.3679,
+        "y": 0.6806,
+        "z": 0.3174,
+        "visibility": 0.919
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6879,
+        "y": 0.6545,
+        "z": -0.0736,
+        "visibility": 0.993
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2125,
+        "y": 0.7688,
+        "z": 0.5016,
+        "visibility": 0.934
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7025,
+        "y": 0.8072,
+        "z": 0.1138,
+        "visibility": 0.989
+      },
+      "LEFT_HEEL": {
+        "x": 0.1739,
+        "y": 0.7894,
+        "z": 0.5216,
+        "visibility": 0.942
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6844,
+        "y": 0.8314,
+        "z": 0.1311,
+        "visibility": 0.986
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.256,
+        "y": 0.8022,
+        "z": 0.5078,
+        "visibility": 0.906
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7954,
+        "y": 0.8398,
+        "z": 0.071,
+        "visibility": 0.976
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_026.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5468,
+        "y": 0.3166,
+        "z": -0.2085,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4733,
+        "y": 0.3533,
+        "z": 0.0329,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.482,
+        "y": 0.3454,
+        "z": -0.4296,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.4915,
+        "y": 0.245,
+        "z": 0.1028,
+        "visibility": 0.433
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.546,
+        "y": 0.2398,
+        "z": -0.6527,
+        "visibility": 0.986
+      },
+      "LEFT_WRIST": {
+        "x": 0.4294,
+        "y": 0.2242,
+        "z": 0.0336,
+        "visibility": 0.251
+      },
+      "RIGHT_WRIST": {
+        "x": 0.4232,
+        "y": 0.2114,
+        "z": -0.661,
+        "visibility": 0.914
+      },
+      "LEFT_INDEX": {
+        "x": 0.3873,
+        "y": 0.2212,
+        "z": -0.0265,
+        "visibility": 0.254
+      },
+      "RIGHT_INDEX": {
+        "x": 0.3794,
+        "y": 0.2131,
+        "z": -0.7266,
+        "visibility": 0.896
+      },
+      "LEFT_HIP": {
+        "x": 0.4693,
+        "y": 0.592,
+        "z": 0.1913,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5136,
+        "y": 0.5918,
+        "z": -0.1919,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3404,
+        "y": 0.6845,
+        "z": 0.3384,
+        "visibility": 0.989
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7089,
+        "y": 0.6489,
+        "z": -0.0435,
+        "visibility": 1.0
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2088,
+        "y": 0.7761,
+        "z": 0.5591,
+        "visibility": 0.98
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6988,
+        "y": 0.8056,
+        "z": 0.1624,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.1666,
+        "y": 0.7976,
+        "z": 0.583,
+        "visibility": 0.977
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6725,
+        "y": 0.8352,
+        "z": 0.1815,
+        "visibility": 0.997
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2473,
+        "y": 0.8055,
+        "z": 0.5723,
+        "visibility": 0.963
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.798,
+        "y": 0.8362,
+        "z": 0.1329,
+        "visibility": 0.995
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_027.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5324,
+        "y": 0.3217,
+        "z": -0.2639,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4667,
+        "y": 0.3525,
+        "z": 0.0619,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4459,
+        "y": 0.3679,
+        "z": -0.4692,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5638,
+        "y": 0.2796,
+        "z": 0.1582,
+        "visibility": 0.676
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5682,
+        "y": 0.32,
+        "z": -0.6595,
+        "visibility": 0.99
+      },
+      "LEFT_WRIST": {
+        "x": 0.5602,
+        "y": 0.176,
+        "z": 0.0511,
+        "visibility": 0.855
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6953,
+        "y": 0.2393,
+        "z": -0.678,
+        "visibility": 0.97
+      },
+      "LEFT_INDEX": {
+        "x": 0.5519,
+        "y": 0.146,
+        "z": -0.0195,
+        "visibility": 0.847
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7227,
+        "y": 0.2141,
+        "z": -0.7337,
+        "visibility": 0.95
+      },
+      "LEFT_HIP": {
+        "x": 0.4776,
+        "y": 0.5971,
+        "z": 0.1887,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5095,
+        "y": 0.6011,
+        "z": -0.1893,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3659,
+        "y": 0.7017,
+        "z": 0.4817,
+        "visibility": 0.984
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7046,
+        "y": 0.6551,
+        "z": -0.1506,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2229,
+        "y": 0.782,
+        "z": 0.7651,
+        "visibility": 0.977
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7325,
+        "y": 0.799,
+        "z": 0.0215,
+        "visibility": 0.997
+      },
+      "LEFT_HEEL": {
+        "x": 0.1902,
+        "y": 0.7992,
+        "z": 0.7953,
+        "visibility": 0.981
+      },
+      "RIGHT_HEEL": {
+        "x": 0.7082,
+        "y": 0.8238,
+        "z": 0.041,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.257,
+        "y": 0.8074,
+        "z": 0.7848,
+        "visibility": 0.95
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8204,
+        "y": 0.8458,
+        "z": -0.017,
+        "visibility": 0.991
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_028.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5457,
+        "y": 0.3088,
+        "z": -0.1454,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4595,
+        "y": 0.361,
+        "z": 0.2172,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4745,
+        "y": 0.3697,
+        "z": -0.4711,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5629,
+        "y": 0.3177,
+        "z": 0.4494,
+        "visibility": 0.193
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5994,
+        "y": 0.3285,
+        "z": -0.6339,
+        "visibility": 0.977
+      },
+      "LEFT_WRIST": {
+        "x": 0.6162,
+        "y": 0.2271,
+        "z": 0.4317,
+        "visibility": 0.384
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6381,
+        "y": 0.2125,
+        "z": -0.6086,
+        "visibility": 0.977
+      },
+      "LEFT_INDEX": {
+        "x": 0.6095,
+        "y": 0.1915,
+        "z": 0.4095,
+        "visibility": 0.438
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6277,
+        "y": 0.1778,
+        "z": -0.6629,
+        "visibility": 0.968
+      },
+      "LEFT_HIP": {
+        "x": 0.4833,
+        "y": 0.5932,
+        "z": 0.2091,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5316,
+        "y": 0.599,
+        "z": -0.2099,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3606,
+        "y": 0.6856,
+        "z": 0.416,
+        "visibility": 0.997
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7197,
+        "y": 0.6492,
+        "z": 0.0604,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2285,
+        "y": 0.76,
+        "z": 0.6403,
+        "visibility": 0.989
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.655,
+        "y": 0.7932,
+        "z": 0.412,
+        "visibility": 0.997
+      },
+      "LEFT_HEEL": {
+        "x": 0.1835,
+        "y": 0.7803,
+        "z": 0.669,
+        "visibility": 0.992
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6224,
+        "y": 0.8253,
+        "z": 0.45,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.284,
+        "y": 0.793,
+        "z": 0.6642,
+        "visibility": 0.957
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.75,
+        "y": 0.8208,
+        "z": 0.4371,
+        "visibility": 0.982
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_029.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5369,
+        "y": 0.3134,
+        "z": -0.089,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4734,
+        "y": 0.3627,
+        "z": 0.2643,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4662,
+        "y": 0.3703,
+        "z": -0.4338,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5709,
+        "y": 0.3151,
+        "z": 0.4721,
+        "visibility": 0.243
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.588,
+        "y": 0.3401,
+        "z": -0.6591,
+        "visibility": 0.996
+      },
+      "LEFT_WRIST": {
+        "x": 0.7031,
+        "y": 0.2528,
+        "z": 0.4147,
+        "visibility": 0.481
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7296,
+        "y": 0.2541,
+        "z": -0.669,
+        "visibility": 0.971
+      },
+      "LEFT_INDEX": {
+        "x": 0.736,
+        "y": 0.2215,
+        "z": 0.3584,
+        "visibility": 0.556
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7575,
+        "y": 0.2253,
+        "z": -0.7215,
+        "visibility": 0.947
+      },
+      "LEFT_HIP": {
+        "x": 0.4956,
+        "y": 0.6033,
+        "z": 0.2255,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5085,
+        "y": 0.6102,
+        "z": -0.226,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3907,
+        "y": 0.7006,
+        "z": 0.4928,
+        "visibility": 0.98
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6954,
+        "y": 0.6614,
+        "z": -0.1521,
+        "visibility": 0.999
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2303,
+        "y": 0.7747,
+        "z": 0.7585,
+        "visibility": 0.977
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6763,
+        "y": 0.8091,
+        "z": 0.0397,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.1795,
+        "y": 0.7914,
+        "z": 0.7868,
+        "visibility": 0.981
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6491,
+        "y": 0.8406,
+        "z": 0.0572,
+        "visibility": 0.998
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2835,
+        "y": 0.8231,
+        "z": 0.7754,
+        "visibility": 0.963
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7676,
+        "y": 0.8427,
+        "z": -0.007,
+        "visibility": 0.997
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_030.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6043,
+        "y": 0.3263,
+        "z": -0.1233,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5132,
+        "y": 0.3554,
+        "z": 0.1318,
+        "visibility": 0.996
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.506,
+        "y": 0.3512,
+        "z": -0.3697,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5353,
+        "y": 0.2612,
+        "z": 0.2885,
+        "visibility": 0.26
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5471,
+        "y": 0.2335,
+        "z": -0.5808,
+        "visibility": 0.987
+      },
+      "LEFT_WRIST": {
+        "x": 0.4194,
+        "y": 0.2185,
+        "z": 0.2756,
+        "visibility": 0.191
+      },
+      "RIGHT_WRIST": {
+        "x": 0.4134,
+        "y": 0.2078,
+        "z": -0.5668,
+        "visibility": 0.929
+      },
+      "LEFT_INDEX": {
+        "x": 0.3721,
+        "y": 0.2116,
+        "z": 0.2258,
+        "visibility": 0.216
+      },
+      "RIGHT_INDEX": {
+        "x": 0.3667,
+        "y": 0.2063,
+        "z": -0.6228,
+        "visibility": 0.909
+      },
+      "LEFT_HIP": {
+        "x": 0.5183,
+        "y": 0.6116,
+        "z": 0.226,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.539,
+        "y": 0.6167,
+        "z": -0.2266,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3971,
+        "y": 0.7229,
+        "z": 0.3361,
+        "visibility": 0.988
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7462,
+        "y": 0.6807,
+        "z": -0.0682,
+        "visibility": 1.0
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2365,
+        "y": 0.8203,
+        "z": 0.5199,
+        "visibility": 0.973
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7184,
+        "y": 0.8341,
+        "z": 0.1248,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.2004,
+        "y": 0.847,
+        "z": 0.54,
+        "visibility": 0.98
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6891,
+        "y": 0.8659,
+        "z": 0.1435,
+        "visibility": 0.998
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2862,
+        "y": 0.8448,
+        "z": 0.5361,
+        "visibility": 0.929
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8156,
+        "y": 0.8721,
+        "z": 0.1287,
+        "visibility": 0.993
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_031.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5488,
+        "y": 0.306,
+        "z": -0.2366,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4772,
+        "y": 0.3541,
+        "z": 0.1367,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4656,
+        "y": 0.3659,
+        "z": -0.4519,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5834,
+        "y": 0.279,
+        "z": 0.2698,
+        "visibility": 0.289
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.587,
+        "y": 0.3206,
+        "z": -0.6677,
+        "visibility": 0.98
+      },
+      "LEFT_WRIST": {
+        "x": 0.6775,
+        "y": 0.2043,
+        "z": 0.1778,
+        "visibility": 0.465
+      },
+      "RIGHT_WRIST": {
+        "x": 0.695,
+        "y": 0.2071,
+        "z": -0.663,
+        "visibility": 0.92
+      },
+      "LEFT_INDEX": {
+        "x": 0.706,
+        "y": 0.161,
+        "z": 0.1201,
+        "visibility": 0.51
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7137,
+        "y": 0.1609,
+        "z": -0.7101,
+        "visibility": 0.881
+      },
+      "LEFT_HIP": {
+        "x": 0.4853,
+        "y": 0.611,
+        "z": 0.1937,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5257,
+        "y": 0.6184,
+        "z": -0.1946,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3711,
+        "y": 0.7188,
+        "z": 0.4026,
+        "visibility": 0.988
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7212,
+        "y": 0.6763,
+        "z": 0.0616,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2268,
+        "y": 0.8109,
+        "z": 0.6291,
+        "visibility": 0.98
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6993,
+        "y": 0.8276,
+        "z": 0.3842,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.2009,
+        "y": 0.8336,
+        "z": 0.6566,
+        "visibility": 0.983
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6707,
+        "y": 0.8502,
+        "z": 0.4204,
+        "visibility": 0.994
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2334,
+        "y": 0.8418,
+        "z": 0.6579,
+        "visibility": 0.944
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.789,
+        "y": 0.8583,
+        "z": 0.4214,
+        "visibility": 0.984
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_032.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.563,
+        "y": 0.2938,
+        "z": -0.2537,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5101,
+        "y": 0.3616,
+        "z": 0.1407,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4854,
+        "y": 0.3758,
+        "z": -0.5492,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6282,
+        "y": 0.3353,
+        "z": 0.2909,
+        "visibility": 0.551
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6377,
+        "y": 0.3828,
+        "z": -0.6987,
+        "visibility": 0.99
+      },
+      "LEFT_WRIST": {
+        "x": 0.7104,
+        "y": 0.2391,
+        "z": 0.1655,
+        "visibility": 0.804
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7447,
+        "y": 0.2789,
+        "z": -0.7249,
+        "visibility": 0.983
+      },
+      "LEFT_INDEX": {
+        "x": 0.7275,
+        "y": 0.1979,
+        "z": 0.0858,
+        "visibility": 0.807
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7676,
+        "y": 0.2421,
+        "z": -0.7941,
+        "visibility": 0.969
+      },
+      "LEFT_HIP": {
+        "x": 0.4782,
+        "y": 0.606,
+        "z": 0.2174,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5108,
+        "y": 0.616,
+        "z": -0.2182,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.367,
+        "y": 0.7153,
+        "z": 0.4787,
+        "visibility": 0.993
+      },
+      "RIGHT_KNEE": {
+        "x": 0.697,
+        "y": 0.6828,
+        "z": 0.0418,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2112,
+        "y": 0.8103,
+        "z": 0.7699,
+        "visibility": 0.987
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.68,
+        "y": 0.8323,
+        "z": 0.4021,
+        "visibility": 0.998
+      },
+      "LEFT_HEEL": {
+        "x": 0.1618,
+        "y": 0.8391,
+        "z": 0.805,
+        "visibility": 0.99
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6558,
+        "y": 0.8593,
+        "z": 0.4402,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2658,
+        "y": 0.8345,
+        "z": 0.7997,
+        "visibility": 0.968
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7693,
+        "y": 0.8669,
+        "z": 0.4217,
+        "visibility": 0.991
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_033.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5701,
+        "y": 0.3303,
+        "z": -0.1923,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4997,
+        "y": 0.373,
+        "z": 0.1323,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4788,
+        "y": 0.3833,
+        "z": -0.4757,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6301,
+        "y": 0.3125,
+        "z": 0.3096,
+        "visibility": 0.696
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6126,
+        "y": 0.335,
+        "z": -0.6735,
+        "visibility": 0.991
+      },
+      "LEFT_WRIST": {
+        "x": 0.6762,
+        "y": 0.2222,
+        "z": 0.2595,
+        "visibility": 0.833
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7143,
+        "y": 0.2526,
+        "z": -0.6802,
+        "visibility": 0.977
+      },
+      "LEFT_INDEX": {
+        "x": 0.6904,
+        "y": 0.1957,
+        "z": 0.1959,
+        "visibility": 0.823
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7353,
+        "y": 0.215,
+        "z": -0.7342,
+        "visibility": 0.958
+      },
+      "LEFT_HIP": {
+        "x": 0.4827,
+        "y": 0.62,
+        "z": 0.2029,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5255,
+        "y": 0.6259,
+        "z": -0.2037,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3836,
+        "y": 0.7237,
+        "z": 0.395,
+        "visibility": 0.988
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7141,
+        "y": 0.687,
+        "z": -0.0326,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2292,
+        "y": 0.8145,
+        "z": 0.6189,
+        "visibility": 0.974
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6972,
+        "y": 0.8419,
+        "z": 0.2265,
+        "visibility": 0.995
+      },
+      "LEFT_HEEL": {
+        "x": 0.19,
+        "y": 0.8341,
+        "z": 0.6446,
+        "visibility": 0.98
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6681,
+        "y": 0.8712,
+        "z": 0.2556,
+        "visibility": 0.993
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.253,
+        "y": 0.8506,
+        "z": 0.6454,
+        "visibility": 0.934
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7914,
+        "y": 0.8766,
+        "z": 0.2476,
+        "visibility": 0.983
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_034.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5742,
+        "y": 0.3148,
+        "z": -0.0999,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4841,
+        "y": 0.3671,
+        "z": 0.2243,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5015,
+        "y": 0.3674,
+        "z": -0.4289,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5986,
+        "y": 0.3104,
+        "z": 0.3985,
+        "visibility": 0.221
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6359,
+        "y": 0.3287,
+        "z": -0.6333,
+        "visibility": 0.976
+      },
+      "LEFT_WRIST": {
+        "x": 0.6667,
+        "y": 0.2425,
+        "z": 0.3,
+        "visibility": 0.354
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7063,
+        "y": 0.2146,
+        "z": -0.6581,
+        "visibility": 0.961
+      },
+      "LEFT_INDEX": {
+        "x": 0.6798,
+        "y": 0.2029,
+        "z": 0.242,
+        "visibility": 0.403
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7096,
+        "y": 0.1797,
+        "z": -0.7164,
+        "visibility": 0.942
+      },
+      "LEFT_HIP": {
+        "x": 0.4741,
+        "y": 0.6144,
+        "z": 0.209,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5087,
+        "y": 0.6189,
+        "z": -0.2096,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3707,
+        "y": 0.7128,
+        "z": 0.4511,
+        "visibility": 0.968
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6957,
+        "y": 0.6802,
+        "z": -0.0346,
+        "visibility": 0.995
+      },
+      "LEFT_ANKLE": {
+        "x": 0.204,
+        "y": 0.8024,
+        "z": 0.7099,
+        "visibility": 0.953
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6938,
+        "y": 0.8299,
+        "z": 0.2642,
+        "visibility": 0.993
+      },
+      "LEFT_HEEL": {
+        "x": 0.1589,
+        "y": 0.8209,
+        "z": 0.74,
+        "visibility": 0.964
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6695,
+        "y": 0.8566,
+        "z": 0.2953,
+        "visibility": 0.989
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2606,
+        "y": 0.8332,
+        "z": 0.7422,
+        "visibility": 0.917
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7892,
+        "y": 0.8661,
+        "z": 0.2747,
+        "visibility": 0.979
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_035.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5334,
+        "y": 0.2938,
+        "z": -0.1817,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4673,
+        "y": 0.3492,
+        "z": 0.1909,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4659,
+        "y": 0.3558,
+        "z": -0.4663,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5619,
+        "y": 0.29,
+        "z": 0.3736,
+        "visibility": 0.177
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5849,
+        "y": 0.3143,
+        "z": -0.6761,
+        "visibility": 0.984
+      },
+      "LEFT_WRIST": {
+        "x": 0.6525,
+        "y": 0.2232,
+        "z": 0.3048,
+        "visibility": 0.438
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6958,
+        "y": 0.2163,
+        "z": -0.6937,
+        "visibility": 0.953
+      },
+      "LEFT_INDEX": {
+        "x": 0.6886,
+        "y": 0.185,
+        "z": 0.2443,
+        "visibility": 0.519
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7104,
+        "y": 0.1775,
+        "z": -0.7475,
+        "visibility": 0.926
+      },
+      "LEFT_HIP": {
+        "x": 0.5114,
+        "y": 0.6015,
+        "z": 0.2112,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5208,
+        "y": 0.6084,
+        "z": -0.2119,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4107,
+        "y": 0.7089,
+        "z": 0.4444,
+        "visibility": 0.951
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6899,
+        "y": 0.7001,
+        "z": 0.0237,
+        "visibility": 0.996
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2789,
+        "y": 0.8195,
+        "z": 0.6872,
+        "visibility": 0.954
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6787,
+        "y": 0.8509,
+        "z": 0.337,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.2427,
+        "y": 0.85,
+        "z": 0.7138,
+        "visibility": 0.972
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6521,
+        "y": 0.8789,
+        "z": 0.3695,
+        "visibility": 0.994
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3535,
+        "y": 0.8467,
+        "z": 0.7055,
+        "visibility": 0.917
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7809,
+        "y": 0.8841,
+        "z": 0.3427,
+        "visibility": 0.985
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_036.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5279,
+        "y": 0.2846,
+        "z": -0.2084,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4854,
+        "y": 0.3414,
+        "z": 0.2368,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4579,
+        "y": 0.3495,
+        "z": -0.4296,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5779,
+        "y": 0.3207,
+        "z": 0.4147,
+        "visibility": 0.139
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5865,
+        "y": 0.3368,
+        "z": -0.6679,
+        "visibility": 0.996
+      },
+      "LEFT_WRIST": {
+        "x": 0.6797,
+        "y": 0.276,
+        "z": 0.3295,
+        "visibility": 0.309
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7324,
+        "y": 0.2562,
+        "z": -0.6465,
+        "visibility": 0.974
+      },
+      "LEFT_INDEX": {
+        "x": 0.7313,
+        "y": 0.2324,
+        "z": 0.2751,
+        "visibility": 0.371
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7654,
+        "y": 0.229,
+        "z": -0.6899,
+        "visibility": 0.944
+      },
+      "LEFT_HIP": {
+        "x": 0.5137,
+        "y": 0.5923,
+        "z": 0.2117,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5278,
+        "y": 0.5983,
+        "z": -0.2124,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4099,
+        "y": 0.6987,
+        "z": 0.4077,
+        "visibility": 0.959
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6892,
+        "y": 0.6909,
+        "z": -0.0938,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2784,
+        "y": 0.807,
+        "z": 0.6232,
+        "visibility": 0.971
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6812,
+        "y": 0.8363,
+        "z": 0.123,
+        "visibility": 0.998
+      },
+      "LEFT_HEEL": {
+        "x": 0.2367,
+        "y": 0.8369,
+        "z": 0.645,
+        "visibility": 0.978
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6544,
+        "y": 0.8629,
+        "z": 0.145,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3597,
+        "y": 0.8351,
+        "z": 0.6299,
+        "visibility": 0.943
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7711,
+        "y": 0.8689,
+        "z": 0.1044,
+        "visibility": 0.991
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_037.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5602,
+        "y": 0.2998,
+        "z": -0.0936,
+        "visibility": 0.999
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4987,
+        "y": 0.3427,
+        "z": 0.1945,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4715,
+        "y": 0.3381,
+        "z": -0.3371,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5404,
+        "y": 0.2619,
+        "z": 0.3434,
+        "visibility": 0.216
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5476,
+        "y": 0.2388,
+        "z": -0.4291,
+        "visibility": 0.986
+      },
+      "LEFT_WRIST": {
+        "x": 0.4537,
+        "y": 0.1997,
+        "z": 0.3093,
+        "visibility": 0.135
+      },
+      "RIGHT_WRIST": {
+        "x": 0.4423,
+        "y": 0.1911,
+        "z": -0.1905,
+        "visibility": 0.82
+      },
+      "LEFT_INDEX": {
+        "x": 0.408,
+        "y": 0.1922,
+        "z": 0.2768,
+        "visibility": 0.153
+      },
+      "RIGHT_INDEX": {
+        "x": 0.397,
+        "y": 0.1877,
+        "z": -0.2323,
+        "visibility": 0.775
+      },
+      "LEFT_HIP": {
+        "x": 0.5247,
+        "y": 0.584,
+        "z": 0.2113,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5181,
+        "y": 0.5875,
+        "z": -0.2115,
+        "visibility": 0.999
+      },
+      "LEFT_KNEE": {
+        "x": 0.4173,
+        "y": 0.6962,
+        "z": 0.2519,
+        "visibility": 0.801
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6929,
+        "y": 0.6874,
+        "z": -0.1209,
+        "visibility": 0.993
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2767,
+        "y": 0.8083,
+        "z": 0.3395,
+        "visibility": 0.824
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6842,
+        "y": 0.8428,
+        "z": -0.0124,
+        "visibility": 0.989
+      },
+      "LEFT_HEEL": {
+        "x": 0.2394,
+        "y": 0.8345,
+        "z": 0.3491,
+        "visibility": 0.865
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6559,
+        "y": 0.8764,
+        "z": -0.0043,
+        "visibility": 0.987
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3548,
+        "y": 0.8403,
+        "z": 0.326,
+        "visibility": 0.837
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7814,
+        "y": 0.874,
+        "z": -0.0532,
+        "visibility": 0.975
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_038.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.4573,
+        "y": 0.2824,
+        "z": -0.0987,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4133,
+        "y": 0.3327,
+        "z": 0.2659,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.3761,
+        "y": 0.3332,
+        "z": -0.4109,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5114,
+        "y": 0.2711,
+        "z": 0.4214,
+        "visibility": 0.284
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.4975,
+        "y": 0.2658,
+        "z": -0.652,
+        "visibility": 0.99
+      },
+      "LEFT_WRIST": {
+        "x": 0.6333,
+        "y": 0.1964,
+        "z": 0.31,
+        "visibility": 0.489
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6372,
+        "y": 0.1797,
+        "z": -0.6693,
+        "visibility": 0.946
+      },
+      "LEFT_INDEX": {
+        "x": 0.6672,
+        "y": 0.1728,
+        "z": 0.2413,
+        "visibility": 0.522
+      },
+      "RIGHT_INDEX": {
+        "x": 0.667,
+        "y": 0.1577,
+        "z": -0.7072,
+        "visibility": 0.893
+      },
+      "LEFT_HIP": {
+        "x": 0.4582,
+        "y": 0.5887,
+        "z": 0.2207,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.4618,
+        "y": 0.594,
+        "z": -0.2212,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3879,
+        "y": 0.7113,
+        "z": 0.4876,
+        "visibility": 0.786
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6211,
+        "y": 0.709,
+        "z": -0.1461,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2616,
+        "y": 0.825,
+        "z": 0.7694,
+        "visibility": 0.911
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6766,
+        "y": 0.8649,
+        "z": -0.0059,
+        "visibility": 0.998
+      },
+      "LEFT_HEEL": {
+        "x": 0.2217,
+        "y": 0.8507,
+        "z": 0.7958,
+        "visibility": 0.936
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6482,
+        "y": 0.8997,
+        "z": 0.0037,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3475,
+        "y": 0.8509,
+        "z": 0.7713,
+        "visibility": 0.919
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7814,
+        "y": 0.8926,
+        "z": -0.0949,
+        "visibility": 0.993
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_039.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.4653,
+        "y": 0.2982,
+        "z": -0.1029,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4122,
+        "y": 0.3521,
+        "z": 0.2604,
+        "visibility": 0.996
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.3956,
+        "y": 0.3482,
+        "z": -0.4072,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5353,
+        "y": 0.3282,
+        "z": 0.3962,
+        "visibility": 0.169
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5363,
+        "y": 0.3226,
+        "z": -0.7113,
+        "visibility": 0.993
+      },
+      "LEFT_WRIST": {
+        "x": 0.6727,
+        "y": 0.2967,
+        "z": 0.2914,
+        "visibility": 0.279
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6974,
+        "y": 0.2945,
+        "z": -0.7938,
+        "visibility": 0.956
+      },
+      "LEFT_INDEX": {
+        "x": 0.7231,
+        "y": 0.2816,
+        "z": 0.2347,
+        "visibility": 0.336
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7386,
+        "y": 0.2802,
+        "z": -0.8348,
+        "visibility": 0.926
+      },
+      "LEFT_HIP": {
+        "x": 0.4471,
+        "y": 0.6061,
+        "z": 0.2179,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.4572,
+        "y": 0.61,
+        "z": -0.2184,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3823,
+        "y": 0.7214,
+        "z": 0.4321,
+        "visibility": 0.833
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6122,
+        "y": 0.7261,
+        "z": -0.1681,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2564,
+        "y": 0.845,
+        "z": 0.6545,
+        "visibility": 0.938
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6702,
+        "y": 0.8862,
+        "z": -0.0436,
+        "visibility": 0.998
+      },
+      "LEFT_HEEL": {
+        "x": 0.2179,
+        "y": 0.8727,
+        "z": 0.6752,
+        "visibility": 0.949
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6462,
+        "y": 0.9214,
+        "z": -0.0353,
+        "visibility": 0.996
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3415,
+        "y": 0.8679,
+        "z": 0.6464,
+        "visibility": 0.941
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7691,
+        "y": 0.9158,
+        "z": -0.1328,
+        "visibility": 0.995
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_040.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5405,
+        "y": 0.2974,
+        "z": -0.2627,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4665,
+        "y": 0.3322,
+        "z": 0.0432,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4302,
+        "y": 0.3302,
+        "z": -0.424,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.4711,
+        "y": 0.2208,
+        "z": 0.1824,
+        "visibility": 0.548
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.4371,
+        "y": 0.2067,
+        "z": -0.6892,
+        "visibility": 0.992
+      },
+      "LEFT_WRIST": {
+        "x": 0.3969,
+        "y": 0.2175,
+        "z": 0.2485,
+        "visibility": 0.169
+      },
+      "RIGHT_WRIST": {
+        "x": 0.3578,
+        "y": 0.212,
+        "z": -0.6873,
+        "visibility": 0.831
+      },
+      "LEFT_INDEX": {
+        "x": 0.3492,
+        "y": 0.2269,
+        "z": 0.2061,
+        "visibility": 0.161
+      },
+      "RIGHT_INDEX": {
+        "x": 0.3236,
+        "y": 0.2273,
+        "z": -0.7407,
+        "visibility": 0.776
+      },
+      "LEFT_HIP": {
+        "x": 0.4682,
+        "y": 0.5916,
+        "z": 0.2227,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.4678,
+        "y": 0.594,
+        "z": -0.2232,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3964,
+        "y": 0.713,
+        "z": 0.4457,
+        "visibility": 0.908
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6524,
+        "y": 0.7057,
+        "z": -0.1833,
+        "visibility": 0.999
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2606,
+        "y": 0.8257,
+        "z": 0.67,
+        "visibility": 0.936
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6765,
+        "y": 0.8698,
+        "z": -0.0372,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.2214,
+        "y": 0.8452,
+        "z": 0.6922,
+        "visibility": 0.942
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6479,
+        "y": 0.9013,
+        "z": -0.0224,
+        "visibility": 0.998
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3367,
+        "y": 0.8524,
+        "z": 0.6486,
+        "visibility": 0.908
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7733,
+        "y": 0.8934,
+        "z": -0.1146,
+        "visibility": 0.995
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_041.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5699,
+        "y": 0.3223,
+        "z": -0.1091,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4981,
+        "y": 0.3602,
+        "z": 0.1975,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4767,
+        "y": 0.3602,
+        "z": -0.3197,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5385,
+        "y": 0.2753,
+        "z": 0.3703,
+        "visibility": 0.309
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5271,
+        "y": 0.2534,
+        "z": -0.3963,
+        "visibility": 0.97
+      },
+      "LEFT_WRIST": {
+        "x": 0.4567,
+        "y": 0.2288,
+        "z": 0.3691,
+        "visibility": 0.161
+      },
+      "RIGHT_WRIST": {
+        "x": 0.4435,
+        "y": 0.2202,
+        "z": -0.1398,
+        "visibility": 0.748
+      },
+      "LEFT_INDEX": {
+        "x": 0.4202,
+        "y": 0.2291,
+        "z": 0.3385,
+        "visibility": 0.164
+      },
+      "RIGHT_INDEX": {
+        "x": 0.4088,
+        "y": 0.2251,
+        "z": -0.1722,
+        "visibility": 0.698
+      },
+      "LEFT_HIP": {
+        "x": 0.4648,
+        "y": 0.623,
+        "z": 0.2126,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.4823,
+        "y": 0.6253,
+        "z": -0.2133,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3449,
+        "y": 0.7368,
+        "z": 0.3731,
+        "visibility": 0.936
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6677,
+        "y": 0.7527,
+        "z": -0.1338,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2237,
+        "y": 0.8634,
+        "z": 0.5266,
+        "visibility": 0.918
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.719,
+        "y": 0.9088,
+        "z": -0.0273,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.1831,
+        "y": 0.895,
+        "z": 0.5431,
+        "visibility": 0.939
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6914,
+        "y": 0.9402,
+        "z": -0.0156,
+        "visibility": 0.994
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3033,
+        "y": 0.8832,
+        "z": 0.5256,
+        "visibility": 0.835
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8208,
+        "y": 0.9369,
+        "z": -0.0872,
+        "visibility": 0.98
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_042.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5589,
+        "y": 0.2771,
+        "z": -0.1168,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4964,
+        "y": 0.3295,
+        "z": 0.2144,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4965,
+        "y": 0.3385,
+        "z": -0.4005,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5919,
+        "y": 0.2563,
+        "z": 0.4644,
+        "visibility": 0.285
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.595,
+        "y": 0.2563,
+        "z": -0.5796,
+        "visibility": 0.968
+      },
+      "LEFT_WRIST": {
+        "x": 0.6345,
+        "y": 0.1654,
+        "z": 0.4603,
+        "visibility": 0.481
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6129,
+        "y": 0.147,
+        "z": -0.5765,
+        "visibility": 0.967
+      },
+      "LEFT_INDEX": {
+        "x": 0.6162,
+        "y": 0.1405,
+        "z": 0.425,
+        "visibility": 0.502
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5934,
+        "y": 0.1212,
+        "z": -0.6341,
+        "visibility": 0.948
+      },
+      "LEFT_HIP": {
+        "x": 0.468,
+        "y": 0.5854,
+        "z": 0.2016,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5161,
+        "y": 0.5961,
+        "z": -0.2024,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3553,
+        "y": 0.7092,
+        "z": 0.5028,
+        "visibility": 0.963
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6667,
+        "y": 0.716,
+        "z": -0.1039,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2375,
+        "y": 0.8273,
+        "z": 0.7904,
+        "visibility": 0.965
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7344,
+        "y": 0.8662,
+        "z": 0.0369,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.2059,
+        "y": 0.857,
+        "z": 0.8211,
+        "visibility": 0.969
+      },
+      "RIGHT_HEEL": {
+        "x": 0.7102,
+        "y": 0.8995,
+        "z": 0.0515,
+        "visibility": 0.993
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2958,
+        "y": 0.838,
+        "z": 0.8156,
+        "visibility": 0.928
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8317,
+        "y": 0.8977,
+        "z": -0.0352,
+        "visibility": 0.985
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_043.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5576,
+        "y": 0.2672,
+        "z": -0.1426,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4944,
+        "y": 0.3343,
+        "z": 0.2596,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4769,
+        "y": 0.3176,
+        "z": -0.4374,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6372,
+        "y": 0.3426,
+        "z": 0.4558,
+        "visibility": 0.321
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6246,
+        "y": 0.302,
+        "z": -0.7732,
+        "visibility": 0.981
+      },
+      "LEFT_WRIST": {
+        "x": 0.7761,
+        "y": 0.3613,
+        "z": 0.4069,
+        "visibility": 0.711
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7848,
+        "y": 0.2822,
+        "z": -0.9396,
+        "visibility": 0.976
+      },
+      "LEFT_INDEX": {
+        "x": 0.8105,
+        "y": 0.3567,
+        "z": 0.3351,
+        "visibility": 0.749
+      },
+      "RIGHT_INDEX": {
+        "x": 0.8204,
+        "y": 0.276,
+        "z": -0.9951,
+        "visibility": 0.962
+      },
+      "LEFT_HIP": {
+        "x": 0.4521,
+        "y": 0.5815,
+        "z": 0.2307,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.4911,
+        "y": 0.585,
+        "z": -0.2315,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3527,
+        "y": 0.6879,
+        "z": 0.6402,
+        "visibility": 0.962
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6501,
+        "y": 0.6967,
+        "z": -0.1381,
+        "visibility": 0.999
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2327,
+        "y": 0.8077,
+        "z": 0.9999,
+        "visibility": 0.979
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7179,
+        "y": 0.8445,
+        "z": 0.0437,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.1971,
+        "y": 0.8346,
+        "z": 1.04,
+        "visibility": 0.988
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6902,
+        "y": 0.8759,
+        "z": 0.0624,
+        "visibility": 0.998
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3153,
+        "y": 0.8277,
+        "z": 1.0318,
+        "visibility": 0.948
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.813,
+        "y": 0.8676,
+        "z": -0.0205,
+        "visibility": 0.994
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_044.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5781,
+        "y": 0.2745,
+        "z": -0.0501,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4873,
+        "y": 0.3137,
+        "z": 0.2521,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4924,
+        "y": 0.302,
+        "z": -0.2911,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5066,
+        "y": 0.2203,
+        "z": 0.4807,
+        "visibility": 0.298
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5494,
+        "y": 0.1918,
+        "z": -0.4414,
+        "visibility": 0.988
+      },
+      "LEFT_WRIST": {
+        "x": 0.4568,
+        "y": 0.1791,
+        "z": 0.5246,
+        "visibility": 0.271
+      },
+      "RIGHT_WRIST": {
+        "x": 0.4756,
+        "y": 0.1271,
+        "z": -0.2877,
+        "visibility": 0.947
+      },
+      "LEFT_INDEX": {
+        "x": 0.4146,
+        "y": 0.1693,
+        "z": 0.4919,
+        "visibility": 0.28
+      },
+      "RIGHT_INDEX": {
+        "x": 0.4337,
+        "y": 0.1214,
+        "z": -0.3293,
+        "visibility": 0.92
+      },
+      "LEFT_HIP": {
+        "x": 0.4741,
+        "y": 0.5649,
+        "z": 0.2168,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.4806,
+        "y": 0.5654,
+        "z": -0.2171,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3662,
+        "y": 0.6878,
+        "z": 0.4205,
+        "visibility": 0.878
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6511,
+        "y": 0.6958,
+        "z": -0.1824,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2295,
+        "y": 0.802,
+        "z": 0.6107,
+        "visibility": 0.924
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7159,
+        "y": 0.8481,
+        "z": -0.1078,
+        "visibility": 0.997
+      },
+      "LEFT_HEEL": {
+        "x": 0.1892,
+        "y": 0.8297,
+        "z": 0.6285,
+        "visibility": 0.929
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6934,
+        "y": 0.8777,
+        "z": -0.1031,
+        "visibility": 0.994
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.319,
+        "y": 0.8308,
+        "z": 0.604,
+        "visibility": 0.905
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8171,
+        "y": 0.8753,
+        "z": -0.1982,
+        "visibility": 0.991
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_045.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.591,
+        "y": 0.2942,
+        "z": -0.0759,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5205,
+        "y": 0.3276,
+        "z": 0.2193,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4893,
+        "y": 0.3331,
+        "z": -0.304,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5604,
+        "y": 0.249,
+        "z": 0.4001,
+        "visibility": 0.341
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5589,
+        "y": 0.2384,
+        "z": -0.4933,
+        "visibility": 0.988
+      },
+      "LEFT_WRIST": {
+        "x": 0.5135,
+        "y": 0.1692,
+        "z": 0.3335,
+        "visibility": 0.481
+      },
+      "RIGHT_WRIST": {
+        "x": 0.5396,
+        "y": 0.1274,
+        "z": -0.4882,
+        "visibility": 0.978
+      },
+      "LEFT_INDEX": {
+        "x": 0.4761,
+        "y": 0.1528,
+        "z": 0.2902,
+        "visibility": 0.497
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5151,
+        "y": 0.1056,
+        "z": -0.5449,
+        "visibility": 0.966
+      },
+      "LEFT_HIP": {
+        "x": 0.5052,
+        "y": 0.5746,
+        "z": 0.2059,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.4919,
+        "y": 0.5747,
+        "z": -0.2063,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4026,
+        "y": 0.6929,
+        "z": 0.4754,
+        "visibility": 0.88
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6435,
+        "y": 0.6894,
+        "z": -0.2864,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2478,
+        "y": 0.7839,
+        "z": 0.7152,
+        "visibility": 0.952
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.699,
+        "y": 0.8384,
+        "z": -0.2567,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.1999,
+        "y": 0.7999,
+        "z": 0.7379,
+        "visibility": 0.95
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6775,
+        "y": 0.8749,
+        "z": -0.2569,
+        "visibility": 0.993
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3255,
+        "y": 0.8229,
+        "z": 0.7065,
+        "visibility": 0.941
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7842,
+        "y": 0.8587,
+        "z": -0.3752,
+        "visibility": 0.992
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_046.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5726,
+        "y": 0.286,
+        "z": -0.1162,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4952,
+        "y": 0.3216,
+        "z": 0.2523,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4899,
+        "y": 0.3186,
+        "z": -0.4435,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5344,
+        "y": 0.4132,
+        "z": 0.4439,
+        "visibility": 0.033
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6288,
+        "y": 0.2998,
+        "z": -0.6968,
+        "visibility": 0.999
+      },
+      "LEFT_WRIST": {
+        "x": 0.5582,
+        "y": 0.4875,
+        "z": 0.3319,
+        "visibility": 0.028
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7836,
+        "y": 0.2596,
+        "z": -0.7285,
+        "visibility": 0.987
+      },
+      "LEFT_INDEX": {
+        "x": 0.5627,
+        "y": 0.5025,
+        "z": 0.2708,
+        "visibility": 0.046
+      },
+      "RIGHT_INDEX": {
+        "x": 0.827,
+        "y": 0.2377,
+        "z": -0.7787,
+        "visibility": 0.972
+      },
+      "LEFT_HIP": {
+        "x": 0.4884,
+        "y": 0.5642,
+        "z": 0.227,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.4813,
+        "y": 0.5636,
+        "z": -0.227,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.4092,
+        "y": 0.6811,
+        "z": 0.5128,
+        "visibility": 0.843
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6163,
+        "y": 0.6701,
+        "z": -0.2352,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2572,
+        "y": 0.7571,
+        "z": 0.8455,
+        "visibility": 0.968
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6933,
+        "y": 0.8181,
+        "z": -0.1207,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.2088,
+        "y": 0.7764,
+        "z": 0.8778,
+        "visibility": 0.964
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6709,
+        "y": 0.8514,
+        "z": -0.1158,
+        "visibility": 0.997
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3257,
+        "y": 0.8078,
+        "z": 0.8258,
+        "visibility": 0.976
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7925,
+        "y": 0.8436,
+        "z": -0.2574,
+        "visibility": 0.998
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_047.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5814,
+        "y": 0.2716,
+        "z": -0.0694,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4894,
+        "y": 0.3127,
+        "z": 0.2405,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.512,
+        "y": 0.31,
+        "z": -0.4088,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5887,
+        "y": 0.2449,
+        "z": 0.4034,
+        "visibility": 0.172
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6269,
+        "y": 0.2321,
+        "z": -0.6401,
+        "visibility": 0.977
+      },
+      "LEFT_WRIST": {
+        "x": 0.6948,
+        "y": 0.1666,
+        "z": 0.2457,
+        "visibility": 0.369
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7359,
+        "y": 0.1353,
+        "z": -0.6843,
+        "visibility": 0.968
+      },
+      "LEFT_INDEX": {
+        "x": 0.7208,
+        "y": 0.1378,
+        "z": 0.1656,
+        "visibility": 0.43
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7539,
+        "y": 0.1052,
+        "z": -0.7319,
+        "visibility": 0.948
+      },
+      "LEFT_HIP": {
+        "x": 0.4613,
+        "y": 0.563,
+        "z": 0.2107,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5045,
+        "y": 0.5686,
+        "z": -0.2115,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3617,
+        "y": 0.6724,
+        "z": 0.5021,
+        "visibility": 0.956
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6619,
+        "y": 0.6842,
+        "z": -0.0076,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2407,
+        "y": 0.793,
+        "z": 0.8182,
+        "visibility": 0.957
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7218,
+        "y": 0.8268,
+        "z": 0.2611,
+        "visibility": 0.995
+      },
+      "LEFT_HEEL": {
+        "x": 0.201,
+        "y": 0.8204,
+        "z": 0.8529,
+        "visibility": 0.971
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6974,
+        "y": 0.8605,
+        "z": 0.288,
+        "visibility": 0.994
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.3134,
+        "y": 0.8149,
+        "z": 0.8448,
+        "visibility": 0.911
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7908,
+        "y": 0.8541,
+        "z": 0.2192,
+        "visibility": 0.981
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_048.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5787,
+        "y": 0.3085,
+        "z": -0.2326,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5191,
+        "y": 0.3458,
+        "z": 0.0887,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.481,
+        "y": 0.3449,
+        "z": -0.4009,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5468,
+        "y": 0.2479,
+        "z": 0.2017,
+        "visibility": 0.419
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5265,
+        "y": 0.2294,
+        "z": -0.7157,
+        "visibility": 0.983
+      },
+      "LEFT_WRIST": {
+        "x": 0.4563,
+        "y": 0.2243,
+        "z": 0.2121,
+        "visibility": 0.183
+      },
+      "RIGHT_WRIST": {
+        "x": 0.4273,
+        "y": 0.2211,
+        "z": -0.8254,
+        "visibility": 0.842
+      },
+      "LEFT_INDEX": {
+        "x": 0.4031,
+        "y": 0.2322,
+        "z": 0.1645,
+        "visibility": 0.182
+      },
+      "RIGHT_INDEX": {
+        "x": 0.3862,
+        "y": 0.2306,
+        "z": -0.8989,
+        "visibility": 0.816
+      },
+      "LEFT_HIP": {
+        "x": 0.4602,
+        "y": 0.5961,
+        "z": 0.2208,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.4703,
+        "y": 0.596,
+        "z": -0.2213,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3431,
+        "y": 0.7006,
+        "z": 0.4341,
+        "visibility": 0.962
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6584,
+        "y": 0.7084,
+        "z": -0.2182,
+        "visibility": 0.999
+      },
+      "LEFT_ANKLE": {
+        "x": 0.218,
+        "y": 0.8183,
+        "z": 0.6582,
+        "visibility": 0.956
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7008,
+        "y": 0.8625,
+        "z": -0.1197,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.1806,
+        "y": 0.8437,
+        "z": 0.6789,
+        "visibility": 0.96
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6711,
+        "y": 0.8973,
+        "z": -0.1117,
+        "visibility": 0.998
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2928,
+        "y": 0.8421,
+        "z": 0.635,
+        "visibility": 0.916
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.8079,
+        "y": 0.8897,
+        "z": -0.2151,
+        "visibility": 0.996
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_049.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5918,
+        "y": 0.2732,
+        "z": -0.0913,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4975,
+        "y": 0.311,
+        "z": 0.2482,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5224,
+        "y": 0.3092,
+        "z": -0.3968,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.595,
+        "y": 0.2786,
+        "z": 0.581,
+        "visibility": 0.108
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6496,
+        "y": 0.288,
+        "z": -0.5909,
+        "visibility": 0.97
+      },
+      "LEFT_WRIST": {
+        "x": 0.7159,
+        "y": 0.2408,
+        "z": 0.7251,
+        "visibility": 0.286
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7791,
+        "y": 0.2394,
+        "z": -0.556,
+        "visibility": 0.915
+      },
+      "LEFT_INDEX": {
+        "x": 0.765,
+        "y": 0.2227,
+        "z": 0.7081,
+        "visibility": 0.375
+      },
+      "RIGHT_INDEX": {
+        "x": 0.8045,
+        "y": 0.2202,
+        "z": -0.589,
+        "visibility": 0.89
+      },
+      "LEFT_HIP": {
+        "x": 0.4602,
+        "y": 0.5728,
+        "z": 0.2077,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5145,
+        "y": 0.5808,
+        "z": -0.2085,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3408,
+        "y": 0.691,
+        "z": 0.4981,
+        "visibility": 0.981
+      },
+      "RIGHT_KNEE": {
+        "x": 0.69,
+        "y": 0.6778,
+        "z": 0.0716,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2388,
+        "y": 0.8164,
+        "z": 0.7793,
+        "visibility": 0.972
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.7017,
+        "y": 0.8249,
+        "z": 0.4068,
+        "visibility": 0.996
+      },
+      "LEFT_HEEL": {
+        "x": 0.221,
+        "y": 0.844,
+        "z": 0.8123,
+        "visibility": 0.981
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6691,
+        "y": 0.8602,
+        "z": 0.4452,
+        "visibility": 0.993
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2675,
+        "y": 0.8207,
+        "z": 0.8161,
+        "visibility": 0.926
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7949,
+        "y": 0.8582,
+        "z": 0.4395,
+        "visibility": 0.983
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_050.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5764,
+        "y": 0.2918,
+        "z": -0.2425,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4794,
+        "y": 0.3312,
+        "z": 0.071,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4875,
+        "y": 0.3499,
+        "z": -0.5271,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5821,
+        "y": 0.2503,
+        "z": 0.2867,
+        "visibility": 0.415
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6164,
+        "y": 0.2896,
+        "z": -0.7274,
+        "visibility": 0.994
+      },
+      "LEFT_WRIST": {
+        "x": 0.6253,
+        "y": 0.167,
+        "z": 0.1832,
+        "visibility": 0.74
+      },
+      "RIGHT_WRIST": {
+        "x": 0.706,
+        "y": 0.1978,
+        "z": -0.7311,
+        "visibility": 0.99
+      },
+      "LEFT_INDEX": {
+        "x": 0.6315,
+        "y": 0.1354,
+        "z": 0.1135,
+        "visibility": 0.741
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7173,
+        "y": 0.1573,
+        "z": -0.7927,
+        "visibility": 0.976
+      },
+      "LEFT_HIP": {
+        "x": 0.4679,
+        "y": 0.5954,
+        "z": 0.1798,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.4614,
+        "y": 0.6079,
+        "z": -0.1804,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.6515,
+        "y": 0.7097,
+        "z": 0.2779,
+        "visibility": 0.966
+      },
+      "RIGHT_KNEE": {
+        "x": 0.324,
+        "y": 0.7256,
+        "z": 0.0441,
+        "visibility": 0.993
+      },
+      "LEFT_ANKLE": {
+        "x": 0.6893,
+        "y": 0.8603,
+        "z": 0.4944,
+        "visibility": 0.983
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.2306,
+        "y": 0.8363,
+        "z": 0.3574,
+        "visibility": 0.997
+      },
+      "LEFT_HEEL": {
+        "x": 0.6595,
+        "y": 0.8947,
+        "z": 0.5082,
+        "visibility": 0.973
+      },
+      "RIGHT_HEEL": {
+        "x": 0.2565,
+        "y": 0.8895,
+        "z": 0.3793,
+        "visibility": 0.989
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.7692,
+        "y": 0.8981,
+        "z": 0.399,
+        "visibility": 0.976
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.3013,
+        "y": 0.8902,
+        "z": 0.2382,
+        "visibility": 0.99
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_051.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5696,
+        "y": 0.3045,
+        "z": -0.0533,
+        "visibility": 0.999
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4536,
+        "y": 0.3493,
+        "z": 0.1997,
+        "visibility": 0.995
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5007,
+        "y": 0.3374,
+        "z": -0.3191,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.4623,
+        "y": 0.2573,
+        "z": 0.3701,
+        "visibility": 0.272
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5216,
+        "y": 0.2241,
+        "z": -0.5437,
+        "visibility": 0.974
+      },
+      "LEFT_WRIST": {
+        "x": 0.4421,
+        "y": 0.1555,
+        "z": 0.2673,
+        "visibility": 0.529
+      },
+      "RIGHT_WRIST": {
+        "x": 0.4764,
+        "y": 0.1214,
+        "z": -0.6277,
+        "visibility": 0.984
+      },
+      "LEFT_INDEX": {
+        "x": 0.4196,
+        "y": 0.1329,
+        "z": 0.2089,
+        "visibility": 0.55
+      },
+      "RIGHT_INDEX": {
+        "x": 0.4414,
+        "y": 0.1014,
+        "z": -0.6765,
+        "visibility": 0.976
+      },
+      "LEFT_HIP": {
+        "x": 0.4463,
+        "y": 0.5991,
+        "z": 0.1834,
+        "visibility": 0.998
+      },
+      "RIGHT_HIP": {
+        "x": 0.5045,
+        "y": 0.6044,
+        "z": -0.1842,
+        "visibility": 0.999
+      },
+      "LEFT_KNEE": {
+        "x": 0.3321,
+        "y": 0.7278,
+        "z": 0.3128,
+        "visibility": 0.927
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6702,
+        "y": 0.7288,
+        "z": -0.1047,
+        "visibility": 0.99
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2319,
+        "y": 0.8566,
+        "z": 0.5056,
+        "visibility": 0.912
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6958,
+        "y": 0.8772,
+        "z": 0.0828,
+        "visibility": 0.977
+      },
+      "LEFT_HEEL": {
+        "x": 0.2099,
+        "y": 0.8884,
+        "z": 0.5243,
+        "visibility": 0.936
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6635,
+        "y": 0.9093,
+        "z": 0.1016,
+        "visibility": 0.976
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2584,
+        "y": 0.8716,
+        "z": 0.4983,
+        "visibility": 0.821
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7942,
+        "y": 0.9059,
+        "z": 0.0268,
+        "visibility": 0.938
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_052.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5758,
+        "y": 0.3004,
+        "z": -0.0958,
+        "visibility": 0.999
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4858,
+        "y": 0.3326,
+        "z": 0.2254,
+        "visibility": 0.992
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4954,
+        "y": 0.3281,
+        "z": -0.3762,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5233,
+        "y": 0.4212,
+        "z": 0.4444,
+        "visibility": 0.011
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6185,
+        "y": 0.3154,
+        "z": -0.7376,
+        "visibility": 0.984
+      },
+      "LEFT_WRIST": {
+        "x": 0.555,
+        "y": 0.4902,
+        "z": 0.5012,
+        "visibility": 0.01
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7567,
+        "y": 0.2889,
+        "z": -0.9619,
+        "visibility": 0.929
+      },
+      "LEFT_INDEX": {
+        "x": 0.5625,
+        "y": 0.5059,
+        "z": 0.482,
+        "visibility": 0.019
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7996,
+        "y": 0.2736,
+        "z": -0.9959,
+        "visibility": 0.904
+      },
+      "LEFT_HIP": {
+        "x": 0.4596,
+        "y": 0.5803,
+        "z": 0.1782,
+        "visibility": 0.998
+      },
+      "RIGHT_HIP": {
+        "x": 0.5117,
+        "y": 0.5846,
+        "z": -0.1787,
+        "visibility": 0.999
+      },
+      "LEFT_KNEE": {
+        "x": 0.338,
+        "y": 0.6868,
+        "z": 0.4015,
+        "visibility": 0.93
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6931,
+        "y": 0.6627,
+        "z": -0.0099,
+        "visibility": 0.99
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2278,
+        "y": 0.7969,
+        "z": 0.6707,
+        "visibility": 0.96
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6774,
+        "y": 0.8077,
+        "z": 0.2818,
+        "visibility": 0.99
+      },
+      "LEFT_HEEL": {
+        "x": 0.2111,
+        "y": 0.8195,
+        "z": 0.6994,
+        "visibility": 0.966
+      },
+      "RIGHT_HEEL": {
+        "x": 0.642,
+        "y": 0.8388,
+        "z": 0.3105,
+        "visibility": 0.978
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2307,
+        "y": 0.8192,
+        "z": 0.6685,
+        "visibility": 0.94
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7587,
+        "y": 0.8405,
+        "z": 0.2712,
+        "visibility": 0.977
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_053.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6014,
+        "y": 0.2892,
+        "z": -0.1032,
+        "visibility": 0.999
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4754,
+        "y": 0.3221,
+        "z": 0.1295,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5456,
+        "y": 0.3329,
+        "z": -0.4216,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5474,
+        "y": 0.2284,
+        "z": 0.2555,
+        "visibility": 0.353
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6418,
+        "y": 0.2433,
+        "z": -0.6154,
+        "visibility": 0.98
+      },
+      "LEFT_WRIST": {
+        "x": 0.6157,
+        "y": 0.1254,
+        "z": 0.1215,
+        "visibility": 0.654
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6775,
+        "y": 0.1295,
+        "z": -0.6676,
+        "visibility": 0.988
+      },
+      "LEFT_INDEX": {
+        "x": 0.6212,
+        "y": 0.0882,
+        "z": 0.0517,
+        "visibility": 0.685
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6733,
+        "y": 0.0919,
+        "z": -0.7156,
+        "visibility": 0.982
+      },
+      "LEFT_HIP": {
+        "x": 0.4544,
+        "y": 0.5773,
+        "z": 0.1858,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5234,
+        "y": 0.5886,
+        "z": -0.1866,
+        "visibility": 0.999
+      },
+      "LEFT_KNEE": {
+        "x": 0.3383,
+        "y": 0.6917,
+        "z": 0.3667,
+        "visibility": 0.984
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7048,
+        "y": 0.6743,
+        "z": -0.0683,
+        "visibility": 0.995
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2135,
+        "y": 0.8029,
+        "z": 0.6062,
+        "visibility": 0.967
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6747,
+        "y": 0.8197,
+        "z": 0.179,
+        "visibility": 0.99
+      },
+      "LEFT_HEEL": {
+        "x": 0.1878,
+        "y": 0.8315,
+        "z": 0.6324,
+        "visibility": 0.968
+      },
+      "RIGHT_HEEL": {
+        "x": 0.646,
+        "y": 0.8443,
+        "z": 0.2047,
+        "visibility": 0.985
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2368,
+        "y": 0.8135,
+        "z": 0.6361,
+        "visibility": 0.914
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7532,
+        "y": 0.8424,
+        "z": 0.1773,
+        "visibility": 0.969
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_054.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5865,
+        "y": 0.3158,
+        "z": -0.1965,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4899,
+        "y": 0.3445,
+        "z": 0.1012,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5008,
+        "y": 0.3389,
+        "z": -0.3431,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.4774,
+        "y": 0.2568,
+        "z": 0.2326,
+        "visibility": 0.428
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.4919,
+        "y": 0.2211,
+        "z": -0.5594,
+        "visibility": 0.985
+      },
+      "LEFT_WRIST": {
+        "x": 0.3965,
+        "y": 0.2093,
+        "z": 0.198,
+        "visibility": 0.466
+      },
+      "RIGHT_WRIST": {
+        "x": 0.3985,
+        "y": 0.1695,
+        "z": -0.5516,
+        "visibility": 0.947
+      },
+      "LEFT_INDEX": {
+        "x": 0.3558,
+        "y": 0.2105,
+        "z": 0.1535,
+        "visibility": 0.452
+      },
+      "RIGHT_INDEX": {
+        "x": 0.363,
+        "y": 0.1783,
+        "z": -0.5958,
+        "visibility": 0.93
+      },
+      "LEFT_HIP": {
+        "x": 0.473,
+        "y": 0.5928,
+        "z": 0.1938,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.5147,
+        "y": 0.5981,
+        "z": -0.1944,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3517,
+        "y": 0.7094,
+        "z": 0.3632,
+        "visibility": 0.961
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6848,
+        "y": 0.6952,
+        "z": -0.0902,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2426,
+        "y": 0.8242,
+        "z": 0.5547,
+        "visibility": 0.946
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6889,
+        "y": 0.8471,
+        "z": 0.0824,
+        "visibility": 0.994
+      },
+      "LEFT_HEEL": {
+        "x": 0.2274,
+        "y": 0.8447,
+        "z": 0.5735,
+        "visibility": 0.949
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6572,
+        "y": 0.8779,
+        "z": 0.1014,
+        "visibility": 0.99
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2417,
+        "y": 0.8453,
+        "z": 0.553,
+        "visibility": 0.885
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7742,
+        "y": 0.8687,
+        "z": 0.0522,
+        "visibility": 0.979
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_055.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5679,
+        "y": 0.3109,
+        "z": 0.0159,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.447,
+        "y": 0.3628,
+        "z": 0.2658,
+        "visibility": 0.996
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.4952,
+        "y": 0.3543,
+        "z": -0.2678,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5241,
+        "y": 0.2593,
+        "z": 0.4163,
+        "visibility": 0.243
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.5598,
+        "y": 0.2545,
+        "z": -0.4746,
+        "visibility": 0.962
+      },
+      "LEFT_WRIST": {
+        "x": 0.5582,
+        "y": 0.1849,
+        "z": 0.3036,
+        "visibility": 0.4
+      },
+      "RIGHT_WRIST": {
+        "x": 0.5858,
+        "y": 0.1469,
+        "z": -0.501,
+        "visibility": 0.955
+      },
+      "LEFT_INDEX": {
+        "x": 0.5528,
+        "y": 0.1523,
+        "z": 0.2532,
+        "visibility": 0.42
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5778,
+        "y": 0.116,
+        "z": -0.5426,
+        "visibility": 0.931
+      },
+      "LEFT_HIP": {
+        "x": 0.3972,
+        "y": 0.5997,
+        "z": 0.1857,
+        "visibility": 0.999
+      },
+      "RIGHT_HIP": {
+        "x": 0.4589,
+        "y": 0.6073,
+        "z": -0.1865,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.2885,
+        "y": 0.7166,
+        "z": 0.3738,
+        "visibility": 0.923
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6202,
+        "y": 0.7152,
+        "z": -0.1203,
+        "visibility": 0.994
+      },
+      "LEFT_ANKLE": {
+        "x": 0.1655,
+        "y": 0.8439,
+        "z": 0.5867,
+        "visibility": 0.923
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6505,
+        "y": 0.8651,
+        "z": 0.0102,
+        "visibility": 0.984
+      },
+      "LEFT_HEEL": {
+        "x": 0.1345,
+        "y": 0.8772,
+        "z": 0.6082,
+        "visibility": 0.928
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6257,
+        "y": 0.9008,
+        "z": 0.0224,
+        "visibility": 0.979
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.232,
+        "y": 0.8535,
+        "z": 0.5981,
+        "visibility": 0.875
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7429,
+        "y": 0.8881,
+        "z": -0.0502,
+        "visibility": 0.963
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_056.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6057,
+        "y": 0.3211,
+        "z": -0.0143,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.511,
+        "y": 0.3605,
+        "z": 0.3281,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.519,
+        "y": 0.357,
+        "z": -0.3595,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6526,
+        "y": 0.3158,
+        "z": 0.5412,
+        "visibility": 0.407
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6573,
+        "y": 0.3051,
+        "z": -0.5759,
+        "visibility": 0.987
+      },
+      "LEFT_WRIST": {
+        "x": 0.7741,
+        "y": 0.2729,
+        "z": 0.4611,
+        "visibility": 0.678
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7755,
+        "y": 0.2363,
+        "z": -0.5965,
+        "visibility": 0.986
+      },
+      "LEFT_INDEX": {
+        "x": 0.8047,
+        "y": 0.2607,
+        "z": 0.4017,
+        "visibility": 0.702
+      },
+      "RIGHT_INDEX": {
+        "x": 0.8008,
+        "y": 0.2132,
+        "z": -0.639,
+        "visibility": 0.975
+      },
+      "LEFT_HIP": {
+        "x": 0.4177,
+        "y": 0.6009,
+        "z": 0.2228,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.4827,
+        "y": 0.6078,
+        "z": -0.2238,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3219,
+        "y": 0.7095,
+        "z": 0.494,
+        "visibility": 0.99
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6442,
+        "y": 0.6989,
+        "z": -0.1216,
+        "visibility": 0.999
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2023,
+        "y": 0.8329,
+        "z": 0.7613,
+        "visibility": 0.985
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6848,
+        "y": 0.8492,
+        "z": 0.0651,
+        "visibility": 0.999
+      },
+      "LEFT_HEEL": {
+        "x": 0.1693,
+        "y": 0.8598,
+        "z": 0.7915,
+        "visibility": 0.989
+      },
+      "RIGHT_HEEL": {
+        "x": 0.652,
+        "y": 0.884,
+        "z": 0.0857,
+        "visibility": 0.997
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2745,
+        "y": 0.8469,
+        "z": 0.798,
+        "visibility": 0.942
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7698,
+        "y": 0.8697,
+        "z": 0.0533,
+        "visibility": 0.993
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_057.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5786,
+        "y": 0.3208,
+        "z": -0.1331,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4999,
+        "y": 0.377,
+        "z": 0.1987,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5234,
+        "y": 0.3927,
+        "z": -0.4722,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.5975,
+        "y": 0.2897,
+        "z": 0.3485,
+        "visibility": 0.302
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6328,
+        "y": 0.2973,
+        "z": -0.6729,
+        "visibility": 0.991
+      },
+      "LEFT_WRIST": {
+        "x": 0.6997,
+        "y": 0.1968,
+        "z": 0.2249,
+        "visibility": 0.579
+      },
+      "RIGHT_WRIST": {
+        "x": 0.7268,
+        "y": 0.2012,
+        "z": -0.6798,
+        "visibility": 0.978
+      },
+      "LEFT_INDEX": {
+        "x": 0.7116,
+        "y": 0.176,
+        "z": 0.1595,
+        "visibility": 0.625
+      },
+      "RIGHT_INDEX": {
+        "x": 0.7419,
+        "y": 0.1756,
+        "z": -0.7223,
+        "visibility": 0.96
+      },
+      "LEFT_HIP": {
+        "x": 0.478,
+        "y": 0.6298,
+        "z": 0.2113,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.527,
+        "y": 0.6382,
+        "z": -0.2121,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.358,
+        "y": 0.7448,
+        "z": 0.2952,
+        "visibility": 0.994
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7004,
+        "y": 0.7057,
+        "z": -0.0304,
+        "visibility": 0.998
+      },
+      "LEFT_ANKLE": {
+        "x": 0.182,
+        "y": 0.862,
+        "z": 0.4304,
+        "visibility": 0.992
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6764,
+        "y": 0.8681,
+        "z": 0.2243,
+        "visibility": 0.998
+      },
+      "LEFT_HEEL": {
+        "x": 0.1437,
+        "y": 0.8932,
+        "z": 0.4459,
+        "visibility": 0.993
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6443,
+        "y": 0.9071,
+        "z": 0.2498,
+        "visibility": 0.995
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.236,
+        "y": 0.8928,
+        "z": 0.4241,
+        "visibility": 0.978
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7661,
+        "y": 0.8869,
+        "z": 0.2307,
+        "visibility": 0.992
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_058.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5685,
+        "y": 0.3299,
+        "z": -0.1602,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.4846,
+        "y": 0.3917,
+        "z": 0.1934,
+        "visibility": 0.997
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.52,
+        "y": 0.4011,
+        "z": -0.4818,
+        "visibility": 0.999
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6075,
+        "y": 0.3073,
+        "z": 0.3976,
+        "visibility": 0.301
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6417,
+        "y": 0.3047,
+        "z": -0.6522,
+        "visibility": 0.986
+      },
+      "LEFT_WRIST": {
+        "x": 0.6579,
+        "y": 0.2067,
+        "z": 0.3232,
+        "visibility": 0.534
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6825,
+        "y": 0.1968,
+        "z": -0.6597,
+        "visibility": 0.986
+      },
+      "LEFT_INDEX": {
+        "x": 0.6518,
+        "y": 0.1808,
+        "z": 0.2722,
+        "visibility": 0.574
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6749,
+        "y": 0.168,
+        "z": -0.7189,
+        "visibility": 0.976
+      },
+      "LEFT_HIP": {
+        "x": 0.4606,
+        "y": 0.6412,
+        "z": 0.2211,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5328,
+        "y": 0.6474,
+        "z": -0.2222,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3508,
+        "y": 0.7532,
+        "z": 0.3503,
+        "visibility": 0.992
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6975,
+        "y": 0.7122,
+        "z": -0.0689,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.186,
+        "y": 0.8826,
+        "z": 0.5171,
+        "visibility": 0.982
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6804,
+        "y": 0.881,
+        "z": 0.1728,
+        "visibility": 0.995
+      },
+      "LEFT_HEEL": {
+        "x": 0.1528,
+        "y": 0.9088,
+        "z": 0.5364,
+        "visibility": 0.986
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6486,
+        "y": 0.9179,
+        "z": 0.1985,
+        "visibility": 0.991
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2266,
+        "y": 0.9006,
+        "z": 0.5298,
+        "visibility": 0.929
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.772,
+        "y": 0.8964,
+        "z": 0.1701,
+        "visibility": 0.975
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_059.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.6159,
+        "y": 0.2996,
+        "z": -0.0611,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5263,
+        "y": 0.3541,
+        "z": 0.243,
+        "visibility": 0.999
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5653,
+        "y": 0.3596,
+        "z": -0.3311,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.608,
+        "y": 0.247,
+        "z": 0.3704,
+        "visibility": 0.394
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6722,
+        "y": 0.2561,
+        "z": -0.4396,
+        "visibility": 0.983
+      },
+      "LEFT_WRIST": {
+        "x": 0.5821,
+        "y": 0.1764,
+        "z": 0.2712,
+        "visibility": 0.496
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6137,
+        "y": 0.1575,
+        "z": -0.2691,
+        "visibility": 0.961
+      },
+      "LEFT_INDEX": {
+        "x": 0.5512,
+        "y": 0.1531,
+        "z": 0.2498,
+        "visibility": 0.487
+      },
+      "RIGHT_INDEX": {
+        "x": 0.5785,
+        "y": 0.1399,
+        "z": -0.3044,
+        "visibility": 0.943
+      },
+      "LEFT_HIP": {
+        "x": 0.4954,
+        "y": 0.6031,
+        "z": 0.2055,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.5572,
+        "y": 0.609,
+        "z": -0.2062,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3784,
+        "y": 0.7121,
+        "z": 0.2831,
+        "visibility": 0.977
+      },
+      "RIGHT_KNEE": {
+        "x": 0.7177,
+        "y": 0.6902,
+        "z": -0.0788,
+        "visibility": 0.997
+      },
+      "LEFT_ANKLE": {
+        "x": 0.2197,
+        "y": 0.8297,
+        "z": 0.3814,
+        "visibility": 0.958
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6822,
+        "y": 0.853,
+        "z": 0.0825,
+        "visibility": 0.993
+      },
+      "LEFT_HEEL": {
+        "x": 0.178,
+        "y": 0.8523,
+        "z": 0.3926,
+        "visibility": 0.954
+      },
+      "RIGHT_HEEL": {
+        "x": 0.649,
+        "y": 0.8852,
+        "z": 0.0971,
+        "visibility": 0.986
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2753,
+        "y": 0.8587,
+        "z": 0.3787,
+        "visibility": 0.932
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7827,
+        "y": 0.8722,
+        "z": 0.058,
+        "visibility": 0.981
+      }
+    }
+  },
+  {
+    "image_path": "yoga/ude_kakato/ude_kakato_060.jpg",
+    "landmarks": {
+      "NOSE": {
+        "x": 0.5819,
+        "y": 0.3131,
+        "z": -0.1466,
+        "visibility": 1.0
+      },
+      "LEFT_SHOULDER": {
+        "x": 0.5097,
+        "y": 0.3778,
+        "z": 0.2161,
+        "visibility": 0.998
+      },
+      "RIGHT_SHOULDER": {
+        "x": 0.5322,
+        "y": 0.3842,
+        "z": -0.4048,
+        "visibility": 1.0
+      },
+      "LEFT_ELBOW": {
+        "x": 0.6086,
+        "y": 0.3033,
+        "z": 0.4091,
+        "visibility": 0.397
+      },
+      "RIGHT_ELBOW": {
+        "x": 0.6601,
+        "y": 0.2936,
+        "z": -0.549,
+        "visibility": 0.984
+      },
+      "LEFT_WRIST": {
+        "x": 0.6333,
+        "y": 0.2104,
+        "z": 0.3836,
+        "visibility": 0.6
+      },
+      "RIGHT_WRIST": {
+        "x": 0.6607,
+        "y": 0.1807,
+        "z": -0.4962,
+        "visibility": 0.985
+      },
+      "LEFT_INDEX": {
+        "x": 0.6144,
+        "y": 0.1868,
+        "z": 0.3679,
+        "visibility": 0.578
+      },
+      "RIGHT_INDEX": {
+        "x": 0.6376,
+        "y": 0.1537,
+        "z": -0.5406,
+        "visibility": 0.974
+      },
+      "LEFT_HIP": {
+        "x": 0.4707,
+        "y": 0.6215,
+        "z": 0.206,
+        "visibility": 1.0
+      },
+      "RIGHT_HIP": {
+        "x": 0.535,
+        "y": 0.6315,
+        "z": -0.2069,
+        "visibility": 1.0
+      },
+      "LEFT_KNEE": {
+        "x": 0.3538,
+        "y": 0.7292,
+        "z": 0.3722,
+        "visibility": 0.971
+      },
+      "RIGHT_KNEE": {
+        "x": 0.6861,
+        "y": 0.7146,
+        "z": 0.0177,
+        "visibility": 0.994
+      },
+      "LEFT_ANKLE": {
+        "x": 0.1886,
+        "y": 0.8426,
+        "z": 0.5613,
+        "visibility": 0.965
+      },
+      "RIGHT_ANKLE": {
+        "x": 0.6834,
+        "y": 0.8751,
+        "z": 0.2719,
+        "visibility": 0.992
+      },
+      "LEFT_HEEL": {
+        "x": 0.153,
+        "y": 0.8658,
+        "z": 0.5839,
+        "visibility": 0.971
+      },
+      "RIGHT_HEEL": {
+        "x": 0.6589,
+        "y": 0.9114,
+        "z": 0.2975,
+        "visibility": 0.989
+      },
+      "LEFT_FOOT_INDEX": {
+        "x": 0.2534,
+        "y": 0.8717,
+        "z": 0.5743,
+        "visibility": 0.925
+      },
+      "RIGHT_FOOT_INDEX": {
+        "x": 0.7724,
+        "y": 0.8882,
+        "z": 0.2491,
+        "visibility": 0.976
+      }
+    }
+  }
+]
